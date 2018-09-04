@@ -15,7 +15,7 @@ Jump to [Researchers](#researchers), [collaborators](#collaborator), [PhD studen
 
 ## Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.group_members %}
+{% for member in site.data.researchers %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
