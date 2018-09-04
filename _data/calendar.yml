@@ -1,6 +1,9 @@
+---
+title: "ESMG-MX: Activities"
 layout: page
-title: ESMG-MX Seminars' Calendar
-weight : 98
+excerpt: "ESMG-MX -- Activities"
+sitemap: false
+permalink: /activities/
 ---
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
