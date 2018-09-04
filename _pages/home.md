@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "ESMG-MX - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Earth-Science Modeling Group."
 sitemap: false
 permalink: /
 ---
