@@ -1,0 +1,16 @@
+#- name: 
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ: 
+#  education1:  
+#  education2:  
+#  education3: 
+#  education4:  
+- name: Eng. Van Huong Le
+  photo: rock.jpg
+  info: PhD student
+  email: levanhuong15011989@gmail.com
+  number_educ: 0
+  education1:Ambientes y Procesos Sedimentarios, Métodos electromagnéticos, Teoría de Inversión Geofísica, Procesamiento de datos Geofísicos y Programación Científica
+
