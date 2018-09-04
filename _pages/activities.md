@@ -89,6 +89,6 @@ The ESMG-MX conducts courses, seminars, documentation and publication of scienti
 {% endif %}
 
 <p><strong><a href="/calendar/">kjfsdjdkjdnkjsn</a></strong></p>
-
+{% site.data.calendar %}
 <p> &nbsp; </p>
 
