@@ -11,7 +11,7 @@ permalink: /group/
  **We are  looking for new PhD students, Postdocs, and Master students to join the group** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Researchers](#researchers), [PhD students](#phd-students), Master students](#master-students), [alumni](#alumni).
+Jump to [Researchers](#researchers), [collaborators](#collaborator), [PhD students](#phd-students), [Master students](#master-students), [alumni](#alumni).
 
 ## Researchers
 {% assign number_printed = 0 %}
@@ -80,7 +80,7 @@ Jump to [Researchers](#researchers), [PhD students](#phd-students), Master stude
 
 ## PhD students Students 
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.phd-students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
