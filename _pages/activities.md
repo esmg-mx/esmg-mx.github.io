@@ -88,5 +88,9 @@ The ESMG-MX conducts courses, seminars, documentation and publication of scienti
 </div>
 {% endif %}
 
+<div>
+         <iframe src="https://calendar.google.com/calendar/embed?title=Eventos%20ESMG%20MX&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;height=468&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=esmg.mx%40gmail.com&amp;color=%23BE6D00&amp;ctz=America%2FMexico_City" style="border:solid 1px #777" width="700" height="300" frameborder="0" scrolling="no"></iframe>
+         </div>
+
 <p> &nbsp; </p>
 
