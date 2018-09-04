@@ -1,0 +1,63 @@
+- name: Dr. Martín A. Díaz-Viera
+  photo: Milan.jpg
+  info: Researcher
+  email: mdiazv@imp.mx, mdiazv64@yahoo.com.mx
+  number_educ: 5
+  education1: Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP).
+  education2: 
+  education3: 
+  education4: 
+  education5: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
+  
+- name: Dr. Arturo Erdely-Ruíz
+  photo: Doohee2.jpg
+  info: Profesor de Carrera Titular "C" tiempo completo definitivo, Programa de Actuaría, Facultad de Estudios Superiores Acatlán - UNAM.
+  email: arturo.erdely@comunidad.unam.mx, arturoerdely@gmail.com
+  number_educ: 4
+  education1: Doctorado en Ciencias Matemáticas (Estadística).
+  education2: Línea de investigación: Funciones cópula y su aplicación en la construcción de modelos de probabilidad para variables aleatorias dependientes.
+  education3: 
+  education4: <a href="https://sites.google.com/site/arturoerdely/">Personal webpage</a>
+
+- name: Dr. Ricardo Casar-González
+  photo: Ram.png
+  info: Geólogo Consultor en Geoestadística Aplicada a Recursos Naturales.
+  email: rcasar@yahoo.com.mx
+  number_educ: 3
+  education1: íneas de investigación: Geoestadística aplicada a geociencias. Modelado geológico-petrofísico de yacimientos petroleros. Caracterización y evaluación de recursos minerales. Modelado y evaluación de sitios contaminados.
+  
+- name: Dr. Arturo Ortíz Tapia
+  photo: irene.jpg
+  info: Researcher
+  email: aortiztapia2013@gmail.com, cygnusmillenium@yahoo.co.uk
+  number_educ: 2
+  education1: Investigación en modelación conceptual, matemática y computacional, aplicada sistemas continuos.
+  
+- name: Dr. Manuel Romero Salcedo
+  photo: Koen.jpg
+  info: Investigador científico en la Gerencia de Geofísica Cuantitativa, Instituto Mexicano del Petróleo.
+  email: mromeros@imp.mx, mromeros@gmail.com
+  number_educ: 1
+  education1: Líneas de investigación: Intelligent Systems for Reservoir Characterization, soft computing, Artificial Neural Networks, Pattern Recognition, Image processing.
+  education2: <a href="https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es">Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Manuel_Romero-Salcedo">ResearchGate</a>
+
+- name: Dr. Armando Altamira Areyán
+  photo: Maarten.png
+  info: Investigador Científico
+  email: aaltamiraa@gmail.com
+  number_educ: 1
+  education1: Sedimentología y estratigrafía de depósitos areno-arcillosos (ambientes continentales y marinos de aguas profundas) 
+  education2: Estudio de la interacción entre las placas tectónicas de Sudamérica y del Caribe
+  education3: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  education4:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
+ 
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:  
+  education2:  
+  education3: 
+  education4:  
