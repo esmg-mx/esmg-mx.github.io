@@ -1,15 +1,15 @@
 ---
-title: "Allan Lab - Publications"
+title: "ESMG-MX: Activities"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "ESMG-MX -- Activities"
 sitemap: false
-permalink: /publications/
+permalink: /activities/
 ---
 
 
-# Publications
+# Activities
 
-## Highlights
+## Education
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
