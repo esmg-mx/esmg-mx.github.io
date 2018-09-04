@@ -1,18 +1,15 @@
 - name: Dr. Martín A. Díaz-Viera
   photo: Milan.jpg
-  info: Researcher
-  email: mdiazv@imp.mx, mdiazv64@yahoo.com.mx
+  info: Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP).
+  email: mdiazv@imp.mx
   number_educ: 5
-  education1: Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP).
-  education2: 
-  education3: 
-  education4: 
-  education5: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
+  education1: Líneas de investigaciónn&#58 Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
+  education2: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
   
 - name: Dr. Arturo Erdely-Ruíz
   photo: Doohee2.jpg
   info: Profesor de Carrera Titular "C" tiempo completo definitivo, Programa de Actuaría, Facultad de Estudios Superiores Acatlán - UNAM.
-  email: arturo.erdely@comunidad.unam.mx, arturoerdely@gmail.com
+  email: arturo.erdely@comunidad.unam.mx
   number_educ: 4
   education1: Doctorado en Ciencias Matemáticas (Estadística).
   education2: Línea de investigación&#58;Funciones cópula y su aplicación en la construcción de modelos de probabilidad para variables aleatorias dependientes.
@@ -29,14 +26,14 @@
 - name: Dr. Arturo Ortíz Tapia
   photo: irene.jpg
   info: Researcher
-  email: aortiztapia2013@gmail.com, cygnusmillenium@yahoo.co.uk
+  email: aortiztapia2013@gmail.com
   number_educ: 2
   education1: Investigación en modelación conceptual, matemática y computacional, aplicada sistemas continuos.
   
 - name: Dr. Manuel Romero Salcedo
   photo: Koen.jpg
   info: Investigador científico en la Gerencia de Geofísica Cuantitativa, Instituto Mexicano del Petróleo.
-  email: mromeros@imp.mx, mromeros@gmail.com
+  email: mromeros@imp.mx
   number_educ: 1
   education1: Líneas de investigación&#58; Intelligent Systems for Reservoir Characterization, soft computing, Artificial Neural Networks, Pattern Recognition, Image processing.
   education2: <a href="https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es">Google Scholar</a>
@@ -55,7 +52,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: mdiazv64@yahoo.com.mx
   number_educ: 0
   education1:  
   education2:  
