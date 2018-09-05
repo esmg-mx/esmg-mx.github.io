@@ -1,6 +1,6 @@
 ---
 title: "ESMG-MX: Member profile"
-layout: homelay
+layout: profile
 excerpt: "ESMG-MX: Member profile"
 sitemap: false
 permalink: group/mdiazv
