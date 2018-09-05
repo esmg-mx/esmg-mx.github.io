@@ -2,14 +2,14 @@
   photo: ImagenEduardo.jpg
   Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
   email: eduardo_linares@comunidad.unam.mx
-  number_educ: 0
+  number_educ: 1
   education1: Tesis de maestría en el Instituto Mexicano del Petróleo.
 
 - name: Eng. Carlos A. Romano-Pérez
   photo: ImagenRomano.jpg
   Info:  Petroleum engineer
   email: carlos_alberto@comunidad.unam.mx
-  number_educ: 0
+  number_educ: 1
   education1:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
   
 - name: "This could be you !"
