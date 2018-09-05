@@ -27,7 +27,7 @@ The ESMG-MX conducts courses, seminars, documentation and publication of scienti
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><strong>Semestre {{ publi.term }}<br><a href="activities/courses/{{ publi.keyword }}">Página del curso</a></strong></p>
+  <p><strong>Semestre {{ publi.term }}<br><a href="courses/{{ publi.keyword }}">Página del curso</a></strong></p>
  </div>
 </div>
 
