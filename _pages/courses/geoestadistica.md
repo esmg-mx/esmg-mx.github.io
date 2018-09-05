@@ -1,6 +1,6 @@
 ---
 title: "ESMG_MX: Geoestadística"
-layout: default
+layout: course
 excerpt: "ESMG_MX: Geoestadística"
 sitemap: false
 permalink: activities/courses/geoestadistica
