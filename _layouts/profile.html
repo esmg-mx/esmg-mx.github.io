@@ -7,7 +7,7 @@ layout: default
 <div class="row">
 	<div class="col-md-3">
 		<div class="media">
-			{% if member.photo %}
+			{% if page.photo %}
 			<img class="pull-left pad-right media-object paper-image" src="{{ page.image }}">
 			{% endif %}
 		</div>
@@ -16,11 +16,11 @@ layout: default
 	<div class="col-md-9">
 		<div class="media-body titlebox">
 			<div class="title media-heading">
-				{{ member.name }}
+				{{ page.title }}
 			</div>
 			<p>
 			<div class="smallhead">
-				{{ member.info }}
+				{{ page.info }}
 			</div>
 		</div>
 	</div>
