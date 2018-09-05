@@ -1,27 +1,17 @@
 ---
-title: "Thermodynamic prediction of protein neutrality"
+title: "Dr. Martín Díaz-Viera"
 layout: profile
-year: "2005"
-shortref: "Bloom et al. PNAS 2005"
-nickname: thermodynamic-prediction
-journal: "Proc. Nat'l. Acad. Sci. USA"
-volume: 102
-issue: 3
-pages: 606--11
-authors: "Bloom JD, Silberg JJ, Wilke CO, Drummond DA, Adami C, Arnold FH"
-pdf: 
-pdflink: http://www.pnas.org/content/102/3/606.full.pdf
+info: "Investigador Científico"
+workplace: "Instituto Mexicano del Petróleo"
+mobile: 
+phone: (5255)9175-6473/7100 
+fax: (5255)9175-7100 
+email: mdiazv@imp.mx
+pdf: /media/resume/CV_mdiaz.pdf
+pdflink: 
 github: 
-pmid: 15644440
-pmcid: PMC545518
-f1000: http://f1000.com/prime/1030269
-figshare: 
-doi: 10.1073/pnas.0406744102
-category: paper
-published: true
-peerreview: true
-review: false
-tags: [stability, neutrality, lattice model, protein]
+researchgate: https://www.researchgate.net/profile/Martin_Diaz-Viera
+linkedin:
 image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
