@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<div class="bigspacer"></div>
-
 <div class="row">
 	<div class="col-md-3">
 		<div class="media">
@@ -16,11 +13,24 @@ layout: default
 	<div class="col-md-9">
 		<div class="media-body titlebox">
 			<div class="title media-heading">
-				{{ page.name }}
+				{{ page.title }}
 			</div>
 			<p>
 			<div class="smallhead">
-				{{ page.info }}
+				{{ page.authors }}, 
+				<span class="journal">
+				{{ page.journal }}
+				</span>
+				{% if page.volume %}
+				 {{ page.volume }}
+				{% endif %}
+				{% if page.issue %}
+				({{ page.issue }})
+				{% endif %}
+				{% if page.pages %}
+				:{{ page.pages }} 
+				{% endif %}
+				({{ page.year }}).
 			</div>
 		</div>
 	</div>
