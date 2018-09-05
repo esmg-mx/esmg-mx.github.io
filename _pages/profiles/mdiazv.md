@@ -3,6 +3,7 @@ title: "ESMG-MX: Member profile"
 layout: profile
 excerpt: "ESMG-MX: Member profile"
 sitemap: false
+photo: {{ site.url }}{{ site.baseurl }}/images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
  Abstract 
