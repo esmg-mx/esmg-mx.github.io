@@ -9,8 +9,9 @@
   photo: ImagenRomano.jpg
   Info:  Petroleum engineer
   email: carlos_alberto@comunidad.unam.mx
-  number_educ: 1
-  education1:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
+  number_educ: 2
+  education1:  am currently working on my master’s degree thesis in the Engineering Postgraduate Program at the National Autonomous University of Mexico (Universidad Nacional Autónoma de México, UNAM), tutored by Dr. Martin Díaz-Viera of the Mexican Petroleum Institute. The purpose of my research is to use discrete fracture models in EOR simulations.
+  education2:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
   
 - name: "This could be you!"
   photo: rock.jpg
