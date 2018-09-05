@@ -3,6 +3,7 @@ title: "ESMG-MX: Member profile"
 layout: profile
 excerpt: "ESMG-MX: Member profile"
 sitemap: false
+name: "Dr. Martín A. Díaz-Viera"
 image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
