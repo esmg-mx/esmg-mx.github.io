@@ -13,7 +13,7 @@ layout: default
 	<div class="col-md-9">
 		<div class="media-body titlebox">
 			<div class="title media-heading">
-				{{ page.title }}
+				{{ page.subtitle }}
 			</div>
 			<p>
 			<div class="smallhead">
@@ -93,26 +93,45 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
-	
+			
+			{% if page.reserachgate %}
 			<div class="smallhead subtle">
-				Share
+				ResearchGate
+			</div>	
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-cog fa-fw"></i>
+				<a class="off" href="{{ page.researchgate }}">{{ page.researchgate | remove: 'http://' | remove: 'https://' }}</a>
 			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+	
+			{% if page.linkedin %}
+			<div class="smallhead subtle">
+				Linkedin
+			</div>	
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-cog fa-fw"></i>
+				<a class="off" href="{{ page.linkedin }}">{{ page.linkedin | remove: 'http://' | remove: 'https://' }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			
+			{% if page.website %}
+			<div class="smallhead subtle">
+				Personal website
+			</div>	
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-cog fa-fw"></i>
+				<a class="off" href="{{ page.website }}">{{ page.website | remove: 'http://' | remove: 'https://' }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
 		</div>
 	</div>
-	{% if page.embargo %}
-	<div class="col-md-8">
-		<div class="post">
-		In press...watch this space!
-		</div>
-	</div>
-	{% else %}
-	<div class="col-md-8">	
-		<div class="post">
-			{{ content }}
-		</div>	
-	</div>
-	{% endif %}
-
+	
 	<div class="col-md-1"></div>
 </div>
 
