@@ -26,6 +26,6 @@ image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
 
-# Abstract 
+# About 
 
-We present a simple theory that uses thermodynamic parameters to predict the probability that a protein retains the wild-type structure after one or more random amino acid substitutions. Our theory predicts that for large numbers of substitutions the probability that a protein retains its structure will decline exponentially with the number of substitutions, with the severity of this decline determined by properties of the structure. Our theory also predicts that a protein can gain extra robustness to the first few substitutions by increasing its thermodynamic stability. We validate our theory with simulations on lattice protein models and by showing that it quantitatively predicts previously published experimental measurements on subtilisin and our own measurements on variants of TEM1 beta-lactamase. Our work unifies observations about the clustering of functional proteins in sequence space, and provides a basis for interpreting the response of proteins to substitutions in protein engineering applications.
+Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP). Líneas de investigación: Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
