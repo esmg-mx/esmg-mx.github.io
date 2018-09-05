@@ -2,15 +2,15 @@
   photo: ImagenMartin2.jpg
   info: Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP).
   email: mdiazv@imp.mx
-  number_educ: 5
-  education1: Líneas de investigaciónn&#58 Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
+  number_educ: 2
+  education1: Líneas de investigación&#58 Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
   education2: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
   
 - name: Dr. Arturo Erdely-Ruíz
   photo: ImagenAER.jpg
   info: Profesor de Carrera Titular "C" tiempo completo definitivo, Programa de Actuaría, Facultad de Estudios Superiores Acatlán - UNAM.
   email: arturo.erdely@comunidad.unam.mx
-  number_educ: 4
+  number_educ: 3
   education1: Doctorado en Ciencias Matemáticas (Estadística).
   education2: Línea de investigación&#58;Funciones cópula y su aplicación en la construcción de modelos de probabilidad para variables aleatorias dependientes.
   education3: <a href="https://sites.google.com/site/arturoerdely/">Personal webpage</a>
@@ -19,21 +19,21 @@
   photo: ImagenRicardo.jpg
   info: Geólogo Consultor en Geoestadística Aplicada a Recursos Naturales.
   email: rcasar@yahoo.com.mx
-  number_educ: 3
+  number_educ: 1
   education1: íneas de investigación&#58; Geoestadística aplicada a geociencias. Modelado geológico-petrofísico de yacimientos petroleros. Caracterización y evaluación de recursos minerales. Modelado y evaluación de sitios contaminados.
   
 - name: Dr. Arturo Ortíz-Tapia
   photo: ImagenAOT.jpg
   info: Researcher
   email: aortiztapia2013@gmail.com
-  number_educ: 2
+  number_educ: 1
   education1: Investigación en modelación conceptual, matemática y computacional, aplicada sistemas continuos.
   
 - name: Dr. Manuel Romero-Salcedo
   photo: ImagenManuel.jpg
   info: Investigador científico en la Gerencia de Geofísica Cuantitativa, Instituto Mexicano del Petróleo.
   email: mromeros@imp.mx
-  number_educ: 1
+  number_educ: 3
   education1: Líneas de investigación&#58; Intelligent Systems for Reservoir Characterization, soft computing, Artificial Neural Networks, Pattern Recognition, Image processing.
   education2: <a href="https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es">Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Manuel_Romero-Salcedo">ResearchGate</a>
@@ -42,7 +42,7 @@
   photo: ImagenArmando.jpg
   info: Investigador Científico
   email: aaltamiraa@gmail.com
-  number_educ: 1
+  number_educ: 4
   education1: Sedimentología y estratigrafía de depósitos areno-arcillosos (ambientes continentales y marinos de aguas profundas) 
   education2: Estudio de la interacción entre las placas tectónicas de Sudamérica y del Caribe
   education3: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
