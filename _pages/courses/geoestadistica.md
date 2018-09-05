@@ -6,4 +6,4 @@ sitemap: false
 permalink: activities/courses/geoestadistica
 ---
 
-#Geoestadística
+# Geoestadística
