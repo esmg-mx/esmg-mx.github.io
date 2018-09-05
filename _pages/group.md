@@ -264,7 +264,7 @@ Jump to [Researchers](#researchers), [Collaborators](#collaborator), [PhD's stud
 
 
 ## Administrative Support
-<a href="esmg.mx@gmail.com">¡Keep in contact!</a> 
+<a href="esmg.mx@gmail.com">Keep in contact</a> 
 
 
 
