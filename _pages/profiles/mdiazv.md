@@ -1,5 +1,6 @@
 ---
-title: "Dr. Martín Díaz-Viera"
+title: "ESMG-MX: Member profile"
+subtitle: "Dr. Martín Díaz-Viera"
 layout: profile
 info: "Investigador Científico"
 workplace: "Instituto Mexicano del Petróleo"
