@@ -24,7 +24,6 @@ tags: [stability, neutrality, lattice model, protein]
 image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
-{% include JB/setup %}
 
 # Abstract 
 
