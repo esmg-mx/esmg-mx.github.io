@@ -17,20 +17,7 @@ layout: default
 			</div>
 			<p>
 			<div class="smallhead">
-				{{ page.authors }}, 
-				<span class="journal">
-				{{ page.journal }}
-				</span>
-				{% if page.volume %}
-				 {{ page.volume }}
-				{% endif %}
-				{% if page.issue %}
-				({{ page.issue }})
-				{% endif %}
-				{% if page.pages %}
-				:{{ page.pages }} 
-				{% endif %}
-				({{ page.year }}).
+				{{ page.info }}
 			</div>
 		</div>
 	</div>
@@ -66,45 +53,34 @@ layout: default
 			<div class="bigspacer"></div>			
 			{% endif %}
 
-			{% if page.supplement %}
+			{% if page.phone %}
 			<div class="smallhead subtle">
-				Supplement
+				Phone
 			</div>	
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-paperclip fa-fw"></i>
-				<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
+				<a class="off" href="{{ page.supplement }}">{{ page.phone | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>			
 			{% endif %}
 
-			{% if page.pmid %}
+			{% if page.fax %}
 			<div class="smallhead subtle">
-				Pubmed
+				Fax
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-external-link fa-fw"></i>
-				<a class="off" href="http://www.ncbi.nlm.nih.gov/pubmed/{{ page.pmid }}">{{ page.pmid }}</a>
+				<a class="off" href="{{ page.fax }}">{{ page.fax }}</a>
 			</div>
 			<div class="bigspacer"></div>			
 			{% endif %}
 						
-			{% if page.doi %}
-			<div class="smallhead subtle">
-				DOI
-			</div>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-external-link fa-fw"></i>
-				<a class="off" href="http://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a>
-			</div>
-			<div class="bigspacer"></div>			
-			{% endif %}
 			
 			{% if page.github %}
 			<div class="smallhead subtle">
-				Source code
+				Github
 			</div>	
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
@@ -113,37 +89,7 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
-			{% if page.dryad_doi %}
-			<div class="smallhead subtle">
-				Data
-			</div>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-database fa-fw"></i>
-				<a class="off" href="http://dx.doi.org/{{ page.dryad_doi }}">Dryad</a>
-			</div>
-			<div class="bigspacer"></div>			
-			{% endif %}
-			{% if page.figshare_doi %}
-			<div class="smallhead subtle">
-				Data
-			</div>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-database fa-fw"></i>
-				<a class="off" href="http://doi.org/{{ page.figshare_doi }}">Figshare</a>
-			</div>
-			<div class="bigspacer"></div>			
-			{% endif %}
-			{% if page.altmetric_id %}
-			<div class="smallhead subtle">
-				Altmetrics
-			</div>	
-			<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-			<div class="altmetric-embed" data-badge-popover="right" data-doi={{ page.doi }} data-badge-type="donut" data-altmetric-id={{ page.altmetric_id }} data-hide-no-mentions="true">
-			</div>
-			<div class="bigspacer"></div>			
-			{% endif %}
+	
 			<div class="smallhead subtle">
 				Share
 			</div>
