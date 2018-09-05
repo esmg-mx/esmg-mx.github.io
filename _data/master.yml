@@ -1,6 +1,23 @@
+- name: Mat. Juan E. Linares-Pérez
+  photo: ImagenEduardo.jpg
+  Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
+  email: eduardo_linares@comunidad.unam.mx
+  number_educ: 0
+  education1: Tesis de maestría en el Instituto Mexicano del Petróleo.
+
 - name: Eng. Carlos A. Romano-Pérez
-  photo: rock.jpg
+  photo: ImagenRomano.jpg
   Info:  Petroleum engineer
   email: carlos_alberto@comunidad.unam.mx
   number_educ: 0
   education1:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
+  
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: mdiazv64@yahoo.com.mx
+  number_educ: 0  
+ 
+ 
+ 
+  
