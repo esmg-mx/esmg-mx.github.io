@@ -3,7 +3,7 @@ title: "ESMG-MX: Member profile"
 layout: homelay
 excerpt: "ESMG-MX: Member profile"
 sitemap: false
-permalink: /mdiazv
+permalink: group/mdiazv
 ---
  Abstract 
 
