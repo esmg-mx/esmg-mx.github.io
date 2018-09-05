@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamic prediction of protein neutrality"
+layout: profile
 year: "2005"
 shortref: "Bloom et al. PNAS 2005"
 nickname: thermodynamic-prediction
