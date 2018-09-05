@@ -17,6 +17,10 @@ layout: default
 			</div>
 			<p>
 			<div class="smallhead">
+				{{ page.workplace }}
+			</div>
+			<p>
+			<div class="smallhead">
 				{{ page.info }}
 			</div>
 		</div>
@@ -31,7 +35,7 @@ layout: default
 		<div class="glyphbox note"> <!-- DAD: what is this class? -->
 			{% if page.pdf or page.pdflink or page.fulltext %}
 			<div class="smallhead subtle">
-				Full text
+				Resume
 			</div>	
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
@@ -60,7 +64,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-paperclip fa-fw"></i>
-				<a class="off" href="{{ page.supplement }}">{{ page.phone | split: '/' | last }}</a>
+				<a class="off" href="{{ page.supplement }}">{{ page.phone }}</a>
 			</div>
 			<div class="bigspacer"></div>			
 			{% endif %}
