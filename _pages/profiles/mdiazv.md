@@ -1,37 +1,31 @@
 ---
-title: "ESMG-MX: Member profile"
-layout: profile
-excerpt: "ESMG-MX: Member profile"
-sitemap: false
-name: "Dr. Martín A. Díaz-Viera"
+title: "Thermodynamic prediction of protein neutrality"
+year: "2005"
+shortref: "Bloom et al. PNAS 2005"
+nickname: thermodynamic-prediction
+journal: "Proc. Nat'l. Acad. Sci. USA"
+volume: 102
+issue: 3
+pages: 606--11
+authors: "Bloom JD, Silberg JJ, Wilke CO, Drummond DA, Adami C, Arnold FH"
+pdf: 
+pdflink: http://www.pnas.org/content/102/3/606.full.pdf
+github: 
+pmid: 15644440
+pmcid: PMC545518
+f1000: http://f1000.com/prime/1030269
+figshare: 
+doi: 10.1073/pnas.0406744102
+category: paper
+published: true
+peerreview: true
+review: false
+tags: [stability, neutrality, lattice model, protein]
 image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
- Abstract 
+{% include JB/setup %}
 
-In eukaryotic cells, diverse stresses trigger coalescence of RNA-binding proteins into stress granules. In vitro, stress-granule-associated proteins can demix to form liquids, hydrogels, and other assemblies lacking fixed stoichiometry. Observing these phenomena has generally required conditions far removed from physiological stresses. We show that poly(A)-binding protein (Pab1 in yeast), a defining marker of stress granules, phase-separates and forms hydrogels in vitro upon exposure to physiological stress conditions. Other RNA-binding proteins depend upon low-complexity regions (LCRs) or RNA for phase separation, whereas Pab1’s LCR is not required for demixing, and RNA inhibits it. Based on unique evolutionary patterns, we create LCR mutations which systematically tune its biophysical properties and Pab1 phase separation in vitro and in vivo. Mutations which impede phase separation reduce organism fitness during prolonged stress. Poly(A)-binding protein thus acts as a physiological stress sensor, exploiting phase separation to precisely mark stress onset, a broadly generalizable mechanism.
+# Abstract 
 
-This work was a productive collaboration with the [Sosnick Lab](http://sosnick.uchicago.edu/).
-
-# Perspective
-
-A terrific [perspective][alberti-perspective] ("Gel or Die") accompanies the paper, by Sonja Kroschwald and [Simon Alberti]. 
-
-# Posts
-1. [Allan][al] gave a [light-hearted introduction]
-1. [Josh] wrote about [biophysical aspects][josh-blog] of the work
-1. [Chris] gave an [inside look] into biological and genetic aspects. 
-
-# Other 
-1. UChicago [ScienceLife], ["Molecules form gels to help cells sense and respond to stress"][ScienceLife]
-
-[al]: /team/d-allan-drummond
-[light-hearted introduction]: /blog/about-adaptive-phase-separation
-[Josh]: /team/josh-riback
-[josh-blog]: /blog/polymer-biophysics-in-action
-[alberti-perspective]: https://authors.elsevier.com/a/1UhPyL7PXQsMS
-[Simon Alberti]: https://www.mpi-cbg.de/en/research-groups/current-groups/simon-alberti/group-leader/
-[biophysical aspects]: /blog/polymer-biophysics-in-action
-[Chris]: /team/chris-katanski
-[inside look]: /blog/Pab1-Demixing-FAQ
-[ScienceLife]: https://sciencelife.uchospitals.edu/2017/03/09/molecules-form-gels-to-help-cells-sense-and-r
+We present a simple theory that uses thermodynamic parameters to predict the probability that a protein retains the wild-type structure after one or more random amino acid substitutions. Our theory predicts that for large numbers of substitutions the probability that a protein retains its structure will decline exponentially with the number of substitutions, with the severity of this decline determined by properties of the structure. Our theory also predicts that a protein can gain extra robustness to the first few substitutions by increasing its thermodynamic stability. We validate our theory with simulations on lattice protein models and by showing that it quantitatively predicts previously published experimental measurements on subtilisin and our own measurements on variants of TEM1 beta-lactamase. Our work unifies observations about the clustering of functional proteins in sequence space, and provides a basis for interpreting the response of proteins to substitutions in protein engineering applications.
