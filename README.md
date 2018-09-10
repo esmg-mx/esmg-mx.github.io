@@ -1,4 +1,4 @@
-# The Earth-Science Modelling Group Website
+# The Earth-Science Modeling Group Website
 
 This is the website of our research group.
 
