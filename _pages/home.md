@@ -24,6 +24,17 @@ The Earth-Science Modeling Group has activities on teaching, research and applic
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Modelo_Gmee.png" alt="Slide 1" />
+            <div class="text">
+                                        <div class="Icon">
+                                            <ul>
+                                                <li><a href="#"><i class="fa fa-heart"></i>700</a></li>
+                                                <li><a href="#"><i class="fa fa-commenting"></i>150</a></li>
+                                            </ul>	
+                                        </div>                        								
+                                        <div class="Lorem">
+                                            <p>Applications<span>Reservoir Simulation</span></p>
+                                        </div>
+                                    </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Seminario_esmg2.jpg" alt="Slide 2" />
