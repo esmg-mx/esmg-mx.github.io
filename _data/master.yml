@@ -3,21 +3,47 @@
   Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
   email: eduardo_linares@comunidad.unam.mx
   number_educ: 1
+  education1: Tesis de maestría en el Instituto Mexicano del Petróleo
+
+- name: Mat. Mario Noyola-Rodríguez
+  photo: ImagenMario.jpg
+  Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
+  email: estaduagro@hotmail.com 
+  number_educ: 1
   education1: Tesis de maestría en el Instituto Mexicano del Petróleo.
+  
+- name: Eng. Daniel Vázquez-Ramírez
+  photo: ImagenDaniel.jpg
+  Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM
 
 - name: Eng. Carlos A. Romano-Pérez
   photo: ImagenRomano.jpg
   Info:  Petroleum engineer
   email: carlos_alberto@comunidad.unam.mx
   number_educ: 2
-  education1:  am currently working on my master’s degree thesis in the Engineering Postgraduate Program at the National Autonomous University of Mexico (Universidad Nacional Autónoma de México, UNAM), tutored by Dr. Martin Díaz-Viera of the Mexican Petroleum Institute. The purpose of my research is to use discrete fracture models in EOR simulations.
+  education1:  I am currently working on my master’s degree thesis in the Engineering Postgraduate Program at the National Autonomous University of Mexico (Universidad Nacional Autónoma de México, UNAM), tutored by Dr. Martin Díaz-Viera of the Mexican Petroleum Institute. The purpose of my research is to use discrete fracture models in EOR simulations.
   education2:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
-  
+
+- name: Eng. Javier A. Estrada-Santos
+  photo: ImagenJES.jpg
+  Info:  Petroleum engineer
+  email: javierestradasantos@gmail.com
+  number_educ: 1
+  education1:  Modelación de flujo y transporte con adsorción en medios porosos
+
+- name: Eng. Edgar G. Martínez-Mendoza
+  photo: ImagenEdgar.jpg
+  Info:  Petroleum engineer
+  email: edgarg.martinezm@gmail.com
+  number_educ: 1
+  education1:  Pore-scale modeling via the pore network approach
+ 
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: mdiazv64@yahoo.com.mx
-  number_educ: 0  
+  number_educ: 0
+
  
  
  
