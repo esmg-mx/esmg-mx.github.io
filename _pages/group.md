@@ -1,7 +1,7 @@
 ---
-title: "ESMG_MX: Group"
+title: "ESMG-MX: Group"
 layout: gridlay
-excerpt: "ESMG_MX: Group members"
+excerpt: "ESMG-MX: Group members"
 sitemap: false
 permalink: /group/
 ---
