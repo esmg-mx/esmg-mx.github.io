@@ -11,7 +11,7 @@ permalink: /group/
  **We are  looking for new PhD students, Postdocs, and Master students to join the group** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Researchers](#researchers), [Collaborators](#collaborator), [PhD's students](#phd-students), [Master's students](#master-students).
+Jump to [Researchers](#researchers), [Collaborators](#collaborators), [PhD students](#phd-students), [Master students](#master-students).
 
 ## Researchers
 {% assign number_printed = 0 %}
@@ -138,7 +138,7 @@ Jump to [Researchers](#researchers), [Collaborators](#collaborator), [PhD's stud
 </div>
 {% endif %}
 
-## PhD's Students 
+## PhD Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
@@ -200,7 +200,7 @@ Jump to [Researchers](#researchers), [Collaborators](#collaborator), [PhD's stud
 </div>
 {% endif %}
 
-## Master's Students 
+## Master Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
 
