@@ -3,3 +3,22 @@
   info: Doctor en Ciencias de la Tierra por la UNAM, en el área de Modelación Matemática y Computacional de Sistemas Terrestres.
   email: antonio@mmc.geofisica.unam.mx
   number_educ: 0
+  
+- name: Dr. Edscott Wilson García
+  photo: Imagen.jpg
+  info: Investigador científico
+  email: edscott@imp.mx
+  number_educ: 0  
+  
+- name: Dr. Eduardo Campos Sepúlveda
+  photo: Imagen.jpg
+  info: Investigador científico
+  email: 
+  number_educ: 0    
+  
+- name: Dr. Arturo Reyes Romero
+  photo: ImagenArturo.jpg
+  info: Investigador científico
+  email: artrero77@gmail.com
+  number_educ: 1      
+  education1: Líneas de investigación&#58; Dinámica de ondas de calor que se propagan en medios porosos, Modelación matemática y numérica de modelos geo mecánicos a escala de núcleo con fracturas.
