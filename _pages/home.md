@@ -35,7 +35,7 @@ The Earth-Science Modeling Group has activities on teaching, research and applic
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/imagen_pnm.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/seminario-sep.jpg" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
