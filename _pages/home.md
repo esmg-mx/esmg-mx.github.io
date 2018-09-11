@@ -2,7 +2,7 @@
 title: "ESMG-MX: Home"
 layout: homelay
 excerpt: "Earth-Science Modeling Group."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
