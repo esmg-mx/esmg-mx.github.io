@@ -1,8 +1,8 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
-sitemap: false
+excerpt: "The Earth-Science Modeling Group."
+sitemap: true
 permalink: /allnews.html
 ---
 
