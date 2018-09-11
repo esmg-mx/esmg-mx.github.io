@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 excerpt: "The Earth-Science Modeling Group."
-sitemap: true
+published: true
 permalink: /allnews.html
 ---
 
