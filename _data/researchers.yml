@@ -49,4 +49,27 @@
   education2: Estudio de la interacción entre las placas tectónicas de Sudamérica y del Caribe
   education3: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
   education4:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
+  
+- name: Dra. Ana Teresa Mendoza-Rosas
+  photo: ImagenAna.jpg
+  info: Catedrática de CONACYT comisionada a CIDESI
+  email: ana.mendoza@cidesi.edu.mx
+  number_educ: 2
+  education1: Maestría y Doctorado en Ciencia de la Tierra con líneas de investigación en peligro, riesgo volcánico y desarrollo de nuevas metodologías para pronosticar erupciones. 
+  education2:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
+  
+- name: Dr. Raúl del Valle-García
+  photo: Imagen.png
+  info: Investigador Científico
+  number_educ: 0
+  
+- name: Dr. Olev Gurevich Titov
+  photo: Imagen.png
+  info: Investigador Científico
+  number_educ: 0  
+
+- name: Dr. Ernesto Rubio-Acosta
+  photo: Imagen.png
+  info: Investigador Científico
+  number_educ: 0  
 
