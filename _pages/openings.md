@@ -75,7 +75,7 @@ You will have the chance to work on the grand challenges of condensed matter phy
 			<li>Kalman Filtering</li>
 			</ul>
 			</div>
-			div>
+			</div>
       </div>
       <div class="panel panel-default">
       <div class="panel-heading">
