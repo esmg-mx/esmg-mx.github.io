@@ -2,7 +2,7 @@
 title: "ESMG-MX: Vacancies"
 layout: openings
 excerpt: "Openings"
-sitemap: true
+sitemap: false
 permalink: /vacancies
 ---
 
