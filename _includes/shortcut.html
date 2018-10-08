@@ -1,0 +1,8 @@
+<div class="well">
+<h4>Shortcuts</h4>
+
+{% for item in site.data.shortcuts limit:9 %}
+<b>{{ item.title }}</b>
+<p><em>{{ item.headline }}</em></p>
+{% endfor %}  
+</div>
