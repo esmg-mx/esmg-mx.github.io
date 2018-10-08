@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   research and applications of mathematical, numerical and 
   computational models in Earth Systems.
 keywords: "Earth-Science Modeling Group, esmg, esmg-mx"
-baseurl: ""
+baseurl: "/"
 url: "https://esmg-mx.github.io/"
 
 include:
