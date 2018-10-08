@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "ESMG-MX: News"
 layout: textlay
 excerpt: "The Earth-Science Modeling Group."
 published: true
