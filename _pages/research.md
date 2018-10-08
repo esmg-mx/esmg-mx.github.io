@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "ESMG-MX: Reseacrh"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ESMG-MX -- Research"
 sitemap: false
 permalink: /research/
 ---
