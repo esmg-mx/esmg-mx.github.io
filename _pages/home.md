@@ -3,7 +3,6 @@ title: "ESMG-MX: Home"
 layout: homelay
 excerpt: "Earth-Science Modeling Group."
 sitemap: true
-permalink: 
 ---
 
 The Earth-Science Modeling Group has activities on teaching, research and applications of mathematical, numerical and computational models in Earth Systems.
