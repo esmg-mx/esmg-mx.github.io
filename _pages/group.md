@@ -24,7 +24,7 @@ Jump to [Researchers](#researchers), [Collaborators](#collaborators), [PhD stude
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <a href="{{ member.keyword }}" class="off"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
   <h4><a href="{{ member.keyword }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
