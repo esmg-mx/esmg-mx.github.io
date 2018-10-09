@@ -1,12 +1,11 @@
 - name: Dr. Martín A. Díaz-Viera
   photo: ImagenMartin2.jpg
-  info: Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP).
+  info: Scientific Researcher at Additional Oil Recovery Engineering Department in the Mexican Petroleum Institute
   email: mdiazv@imp.mx
   keyword: mdiazv
   number_educ: 2
-  education1: Líneas de investigación&#58; Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
+  education1: Main Research Interests&#58; Mathematical, Numerical and Computational Modeling of Earth Systems; Flow and transport modeling in porous media; Geostatistics and Spatial Stochastic Models; Applications to problems in soils, aquifers, mining and oil reservoirs
   education2: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
-  about: efefeffefe
   
 - name: Dr. Arturo Erdely-Ruíz
   photo: ArturoErdely2.jpg
@@ -30,7 +29,7 @@
   photo: ImagenAOT.jpg
   info: Researcher
   email: aortiztapia2013@gmail.com
-  keyword: atapiao
+  keyword: aortizt
   number_educ: 1
   education1: Investigación en modelación conceptual, matemática y computacional, aplicada sistemas continuos.
   
