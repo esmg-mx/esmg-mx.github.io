@@ -15,7 +15,7 @@ researchgate: https://www.researchgate.net/profile/Arturo_Ortiz_Tapia
 linkedin: 
 website: 
 image: /images/teampic/ImagenAOT.jpg
-permalink: group/ortizo
+permalink: group/aortizt
 ---
 
 # About 
