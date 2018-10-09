@@ -1,6 +1,6 @@
 ---
 title: "ESMG-MX: Member profile"
-subtitle: "Dr. Ana Mendoza-Rosasa"
+subtitle: "Dra. Ana Mendoza-Rosasa"
 layout: profile
 info: "Researcher"
 workplace: "CIDESI"
