@@ -12,12 +12,18 @@ pdf: /media/resume/CV_mdiaz.pdf
 pdflink: 
 github: 
 researchgate: https://www.researchgate.net/profile/Martin_Diaz-Viera
-linkedin:
-website:
+linkedin: https://www.linkedin.com/in/mdiazv64/
+website: https://rgl.academia.edu/MartinAlbertoD%C3%ADazViera
 image: /images/teampic/ImagenMartin2.jpg
 permalink: group/mdiazv
 ---
 
 # About 
 
-Investigador Científico Programa de Investigación en Recuperación de Hidrocarburos Instituto Mexicano del Petróleo (IMP). Líneas de investigación: Geoestadística y Modelos Estocásticos para la Caracterización de Yacimientos, Modelación Matemática, Numérica y Computacional de Procesos de Recuperación de Hidrocarburos.
+Scientific Researcher at Additional Oil Recovery Engineering Department in the Mexican Petroleum Institute
+
+Main Research Interests:
+- Mathematical, Numerical and  Computational Modeling of Earth Systems
+- Flow and transport modeling in porous media
+- Geostatistics and Spatial Stochastic Models 
+- Applications to problems in soils, aquifers, mining and oil reservoirs
