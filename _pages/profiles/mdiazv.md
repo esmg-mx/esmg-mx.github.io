@@ -2,8 +2,8 @@
 title: "ESMG-MX: Member profile"
 subtitle: "Dr. Martín Díaz-Viera"
 layout: profile
-info: "Investigador Científico"
-workplace: "Instituto Mexicano del Petróleo"
+info: "Scientific Researcher"
+workplace: "Mexican Petroleum Institute"
 mobile: 
 phone: (5255)9175-6473/7100 
 fax: (5255)9175-7100 
