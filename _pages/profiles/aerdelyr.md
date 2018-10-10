@@ -5,12 +5,12 @@ layout: profile
 info: "Profesor de Carrera Titular C"
 workplace: "Facultad de Estudios Superiores Acatlán - UNAM"
 mobile: 
-phone: 5360-2090 
+phone: 5623-1502
 email: arturo.erdely@comunidad.unam.mx
 pdf: /media/resume/CV_aerdely.pdf
 pdflink: 
 github: 
-researchgate: https://www.researchgate.net/profile/Martin_Diaz-Viera
+researchgate: https://www.researchgate.net/profile/Arturo_Erdely
 linkedin:
 website: https://sites.google.com/site/arturoerdely/
 image: /images/teampic/ArturoErdely2.jpg
