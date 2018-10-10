@@ -18,7 +18,7 @@ permalink: /pictures/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         {% for pic in site.data.pictures_gallery %}
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide 1" />
         </div>
         {% endfor %}
