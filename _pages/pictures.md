@@ -17,10 +17,13 @@ permalink: /pictures/
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        {% assign pic_count = 0 %}
         {% for pic in site.data.pictures_gallery %}
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide 1" />
-        </div>
+        {% if pic_count > 0 %}
+            <div class="item">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide 1" />
+            </div>
+        {% end if %}
         {% endfor %}
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
