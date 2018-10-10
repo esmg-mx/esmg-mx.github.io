@@ -1,6 +1,6 @@
 ---
 title: "ESMG-MX: Member profile"
-subtitle: "Dr. Manuel Roemro-Salcido"
+subtitle: "Dr. Manuel Romero-Salcido"
 layout: profile
 info: "Scientific Researcher"
 workplace: "Mexican Petroleum Institute"
@@ -11,7 +11,7 @@ email: mromeros@imp.mx
 pdf: /media/resume/CV_mromero.pdf
 pdflink: 
 github: 
-researchgate: https://www.researchgate.net/profile/Martin_Diaz-Viera
+researchgate: 
 linkedin: 
 website: https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es
 image: /images/teampic/ImagenManuel.jpg
