@@ -2,10 +2,11 @@
   photo: ImagenAntonio.jpg
   info: Doctor en Ciencias de la Tierra por la UNAM, en el área de Modelación Matemática y Computacional de Sistemas Terrestres.
   email: antonio@mmc.geofisica.unam.mx
-  number_educ: 0
+  number_educ: 1
+  education1: <a href="http://www.fciencias.unam.mx/directorio/34691">Personal website</a>
   
 - name: Dr. Edscott Wilson García
-  photo: Imagen.jpg
+  photo: ImagenEdscott.jpg
   info: Investigador científico
   email: edscott@imp.mx
   number_educ: 0  
