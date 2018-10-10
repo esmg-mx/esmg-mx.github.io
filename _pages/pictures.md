@@ -24,6 +24,7 @@ permalink: /pictures/
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide 1" />
             </div>
         {% end if %}
+        {% assign pic_count = pic_count | plus: 1 %}
         {% endfor %}
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
