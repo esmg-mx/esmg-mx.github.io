@@ -3,7 +3,6 @@ title: "ESMG_MX: Geoestadística"
 layout: course
 excerpt: "ESMG_MX: Geoestadística"
 sitemap: true
-permalink: activities/courses/geoestadistica
 ---
 
 # Geoestadística
