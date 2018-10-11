@@ -8,25 +8,24 @@ permalink: /pictures/
 # Pictures
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
+    {% assign index = 0 %}
+    {% for pic in site.data.pictures_gallery %}
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        {{% if index==0 %}}
+            <li data-target="#carousel" data-slide-to=index class="active"></li>
+        {{% end if %}}
+        <li data-target="#carousel" data-slide-to=index></li>
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20181005_120113069.jpg" alt="Slide 1" />
-        </div>
-        {% assign pic_count = 0 %}
-        {% for pic in site.data.pictures_gallery %}
-        {% if pic_count > 0 %}
-            <div class="item">
+        {{% if index==0 %}}
+            <div class="item active">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide pic_count"/>
             </div>
-        {% end if %}
+        {{% end if %}}
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide pic_count"/>
+        </div>
         {% assign pic_count = pic_count | plus: 1 %}
         {% endfor %}
     </div> 
