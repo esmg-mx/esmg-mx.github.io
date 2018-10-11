@@ -6,41 +6,6 @@ permalink: /pictures/
 ---
 
 # Pictures
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    {% assign index = 0 %}
-    {% for pic in site.data.pictures_gallery %}
-    <ol class="carousel-indicators">
-        {{% if index==0 %}}
-            <li data-target="#carousel" data-slide-to=index class="active"></li>
-        {{% end if %}}
-        <li data-target="#carousel" data-slide-to=index></li>
-    </ol>
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        {{% if index==0 %}}
-            <div class="item active">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide pic_count"/>
-            </div>
-        {{% end if %}}
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide pic_count"/>
-        </div>
-        {% assign pic_count = pic_count | plus: 1 %}
-        {% endfor %}
-    </div> 
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
-#### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_gallery %}
@@ -79,7 +44,4 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
+
