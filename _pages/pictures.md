@@ -17,11 +17,14 @@ permalink: /pictures/
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20181005_120113069.jpg" alt="Slide 1" />
+        </div>
         {% assign pic_count = 0 %}
         {% for pic in site.data.pictures_gallery %}
         {% if pic_count > 0 %}
             <div class="item">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide 1" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" />
             </div>
         {% end if %}
         {% assign pic_count = pic_count | plus: 1 %}
