@@ -24,7 +24,7 @@ permalink: /pictures/
         {% for pic in site.data.pictures_gallery %}
         {% if pic_count > 0 %}
             <div class="item">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" alt="Slide pic_count"/>
             </div>
         {% end if %}
         {% assign pic_count = pic_count | plus: 1 %}
