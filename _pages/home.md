@@ -16,6 +16,7 @@ The Earth-Science Modeling Group has activities on teaching, research and applic
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -35,6 +36,9 @@ The Earth-Science Modeling Group has activities on teaching, research and applic
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/seminario-sep.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/event.jpg" alt="Slide 6" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
