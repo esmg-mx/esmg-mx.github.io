@@ -32,4 +32,4 @@
   education1: Software development for real time predictive analytics in the upstream oil and gas industry
   education2: <a href="https://www.linkedin.com/in/mathematicalphysicist/">Linkedin</a>
   education3: <a href="https://github.com/mathphysmx/">GitHub</a>
-  education4: <a href="/media/resume/CV_francisco_eg.pdf">Resume</a>
+  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
