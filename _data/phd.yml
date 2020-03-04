@@ -21,13 +21,6 @@
   number_educ: 1
   education1: Investigador de la Universidad Católica del Norte. Antofagasta, Chile 
 
-- name: M.Sc. Francisco Mendoza-Torres
-  photo: ImagenFrancisco.jpg
-  info: PhD student
-  email: mentofran@gmail.com
-  number_educ: 1
-  education1: Doctorado en Ciencias de la Tierra (Instituto de Geofísica, UNAM)
-
 - name: M.Sc. Carla D. Ayala-García
   photo: ImagenDaniela.jpg
   info: PhD student
@@ -42,3 +35,8 @@
   number_educ: 0
   education1: Ambientes y Procesos Sedimentarios, Métodos electromagnéticos, Teoría de Inversión Geofísica, Procesamiento de datos Geofísicos y Programación Científica
 
+- name: Eng. Daniel Vázquez-Ramírez
+  photo: ImagenDaniel.jpg
+  info: PhD student
+  email: daniel.geofisico89@comunidad.unam.mx
+  
