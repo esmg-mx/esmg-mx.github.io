@@ -23,3 +23,12 @@
   email: artrero77@gmail.com
   number_educ: 1      
   education1: Líneas de investigación&#58; Dinámica de ondas de calor que se propagan en medios porosos, Modelación matemática y numérica de modelos geo mecánicos a escala de núcleo con fracturas.
+
+- name: Dr. Francisco Mendoza-Torres
+  photo: ImagenFrancisco.jpg
+  info: Investigador científico
+  email: mentofran@gmail.com
+  number_educ: 3
+  education1: Software development for real time predictive analytics in the upstream oil and gas industry
+  education2: <a href="https://www.linkedin.com/in/mathematicalphysicist/">Linkedin</a>
+  education3: <a href="https://github.com/mathphysmx/">GitHub</a>
