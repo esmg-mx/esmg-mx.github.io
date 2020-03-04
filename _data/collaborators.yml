@@ -11,12 +11,6 @@
   email: edscott@imp.mx
   number_educ: 0  
   
-- name: Dr. Eduardo Campos Sepúlveda
-  photo: Imagen.png
-  info: Investigador científico
-  email: 
-  number_educ: 0    
-  
 - name: Dr. Arturo Reyes Romero
   photo: ImagenArturo.jpg
   info: Investigador científico
@@ -33,3 +27,11 @@
   education2: <a href="https://www.linkedin.com/in/mathematicalphysicist/">Linkedin</a>
   education3: <a href="https://github.com/mathphysmx/">GitHub</a>
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
+  
+  
+  
+  - name: Dr. Eduardo Campos Sepúlveda
+  photo: Imagen.png
+  info: Investigador científico
+  email: 
+  number_educ: 0 
