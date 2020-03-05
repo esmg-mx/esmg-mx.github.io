@@ -32,7 +32,7 @@
   photo: ImagenHuong.jpg
   info: PhD student
   email: levanhuong15011989@gmail.com
-  number_educ: 0
+  number_educ: 1
   education1: Ambientes y Procesos Sedimentarios, Métodos electromagnéticos, Teoría de Inversión Geofísica, Procesamiento de datos Geofísicos y Programación Científica
 
 - name: M.Sc. Daniel Vázquez-Ramírez
@@ -40,3 +40,9 @@
   info: PhD student
   email: daniel.geofisico89@comunidad.unam.mx
   
+- name: M.Sc. Mario Enrique Vadillo Sáenz
+  photo: ImageMEVS.jpg
+  info: PhD student
+  email: marioevsz@gmail.com
+  number_educ: 1
+  education1:Simulación de Yacimientos, Estabilidad Mecánica del Agujero
