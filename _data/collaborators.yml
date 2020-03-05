@@ -23,12 +23,40 @@
   info: Investigador científico
   email: mentofran@gmail.com
   number_educ: 4
-  education1: Software development for real time predictive analytics in the upstream oil and gas industry
+  education1: Software development for real time predictive analytics in the upstream oil and gas industry.
   education2: <a href="https://www.linkedin.com/in/mathematicalphysicist/">Linkedin</a>
   education3: <a href="https://github.com/mathphysmx/">GitHub</a>
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
   
+  - name: Dr. Alejandro Alonzo García
+  photo: ImagenAlejandro.jpg
+  info: Cátedra CONACYT-Centro de Ingenieria y Desarrollo Industrial Unidad Campeche  (Cátedra CONACYT-CIDESI-Unidad Campeche).
+  email: alejandro_1980@hotmail.com;  alejandro.alonzo@cidesi.edu.mx
+  number_educ: 4
+  education1: Estimación de propiedades de flujo en medios porosos simplificados y realistas en los regímenes Darcianos, laminares y turbulentos.
+  education2: Control de la capa límite turbulenta.
+  education3: Diseño de Reactores Agitados mediante Dinámica de Fluidos Computacionales.
+  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV-Alejandro2020.pdf">Resume</a>
   
+  - name: Dra. Anabel Hernández Ramirez
+  photo: ImagenAnabel.jpg
+  info: Universidad de las Américas Puebla y Universidad Anáhuac Puebla (Profesor tiempo parcial).
+  email: anabel.hernandez@udlap.mx, anabel.hernandezra@anahuac.mx, anabelnstitucional@gmail.com
+  number_educ: 4
+  education1: El principal interés es el desarrollo de modelos matemáticos, numéricos y computacionales de sistemas continuos.
+  education2: Ecuaciones diferenciales ordinarias aplicadas al problema de la circulación sanguínea (biomedicina).
+  education3: Ecuaciones diferenciales parciales aplicadas al problema de flujo bifásico en medios porosos para la simulación de procesos de desplazamiento de campo de fuerzas de una centrífuga (petrofísica).
+  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV-Anabel2020.pdf">Resume</a>
+  
+  - name: Dr. Armando Altamira Areyánz
+  photo: Imagen.jpg
+  info: Director de área en la Dirección General de Evaluación del Potencial Petrolero de la Comisión Nacional de Hidrocarburos.
+  email: armando.altamira@cnh.gob.mx, aaltamiraa@gmail.com
+  number_educ: 4
+  education1: Investigación geológica aplicada a la industria del petróleo en las áreas de:
+  education2: Sedimentología y estratigrafía (análisis de facies areno-arcillosas),
+  education3: Caracterización geológica de afloramientos análogos de yacimientos de hidrocarburos.
+  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV-Armando2020.pdf">Resume</a>
   
   - name: Dr. Eduardo Campos Sepúlveda
   photo: Imagen.png
