@@ -29,7 +29,7 @@
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
   
   - name: Dr. Alejandro Alonzo García
-  photo: ImagenAlejandro.jpg
+  photo: ImagenAlejandro.jpeg
   info: Cátedra CONACYT-Centro de Ingenieria y Desarrollo Industrial Unidad Campeche  (Cátedra CONACYT-CIDESI-Unidad Campeche).
   email: alejandro_1980@hotmail.com
   number_educ: 4
