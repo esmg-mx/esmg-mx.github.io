@@ -49,7 +49,7 @@
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Anabel2020.pdf">Resume</a>
   
 - name: Dr. Jorge Adrián Perera Burgos
-  photo: ImageJorgePerera.JPG
+  photo: ImageJorgePerera.png
   info: Cátedras Conacyt – Centro de Investigación Científica de Yucatán, Unidad de Ciencias del Agua
   email: jorge.perera@cicy.mx
   number_educ: 2
