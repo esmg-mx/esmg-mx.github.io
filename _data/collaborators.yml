@@ -28,7 +28,7 @@
   education3: <a href="https://github.com/mathphysmx/">GitHub</a>
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
   
-  - name: Dr. Alejandro Alonzo García
+- name: Dr. Alejandro Alonzo García
   photo: ImagenAlejandro.jpeg
   info: Cátedra CONACYT-Centro de Ingenieria y Desarrollo Industrial Unidad Campeche  (Cátedra CONACYT-CIDESI-Unidad Campeche)
   email: alejandro_1980@hotmail.com
@@ -38,7 +38,7 @@
   education3: Diseño de Reactores Agitados mediante Dinámica de Fluidos Computacionales
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Alejandro2020.pdf">Resume</a>
   
-  - name: Dra. Anabel Hernández Ramirez
+- name: Dra. Anabel Hernández Ramirez
   photo: ImagenAnabel.jpg
   info: Universidad de las Américas Puebla y Universidad Anáhuac Puebla (Profesor tiempo parcial)
   email: anabel.hernandez@udlap.mx
@@ -48,7 +48,7 @@
   education3: Ecuaciones diferenciales parciales aplicadas al problema de flujo bifásico en medios porosos para la simulación de procesos de desplazamiento de campo de fuerzas de una centrífuga (petrofísica)
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Anabel2020.pdf">Resume</a>
   
-  - name: Dr. Eduardo Campos Sepúlveda
+- name: Dr. Eduardo Campos Sepúlveda
   photo: Imagen.png
   info: Investigador científico
   email: 
