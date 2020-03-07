@@ -48,6 +48,14 @@
   education3: Ecuaciones diferenciales parciales aplicadas al problema de flujo bifásico en medios porosos para la simulación de procesos de desplazamiento de campo de fuerzas de una centrífuga (petrofísica)
   education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Anabel2020.pdf">Resume</a>
   
+- name: Dr. Jorge Adrián Perera Burgos
+  photo: ImageJorgePerera.jpg
+  info: Cátedras Conacyt – Centro de Investigación Científica de Yucatán, Unidad de Ciencias del Agua
+  email: jorge.perera@cicy.mx
+  number_educ: 2
+  education1: Modelación analítica y numérica de fluidos y contaminantes en medios porosos. Pruebas de presión y trazadores. Caracterización geofísica e hidrogeológica de acuíferos subterráneos
+  education2: <a href="https://www.cicy.mx/unidad-de-ciencias-del-agua/investigador/jorge-adrian-perera-burgos">Personal website</a>
+  
 - name: Dr. Eduardo Campos Sepúlveda
   photo: Imagen.png
   info: Investigador científico
