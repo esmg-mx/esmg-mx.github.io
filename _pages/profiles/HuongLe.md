@@ -3,12 +3,10 @@ title: "ESMG-MX: Member profile"
 subtitle: "M.Sc. Van Huong Le"
 layout: profile
 info: "PhD student at the Earth Sciences Graduate Program, UNAM"
-workplace: "Cto. de los Posgrados S/N, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico"
-email: levanhuong15011989@gmail.com
+workplace: "email: levanhuong15011989@gmail.com"
 mobile: 
 phone:  
 fax:  
-email: levanhuong15011989@gmail.com
 pdf: resume/CV_Le.pdf
 pdflink:
 website: http://www.esmg-mx.org/group/HuongLe
@@ -19,14 +17,6 @@ academia: https://independent.academia.edu/huonglevan2
 image: /images/teampic/ImagenHuong.jpg
 permalink: group/HuongLe
 ---
-
-# EDUCATION
-
-2017-Now  National Autonomous University of Mexico, Mexico. Ph.D. Applied Geostatistics
-2015-2016 National Autonomous University of Mexico, Mexico.  M.Sc. Applied Geostatistics
-2009-2014 University of Pinar del Rio, Hermanos Saíz Montes de Oca, Cuba. B.Sc. Geological Engineering
-
-
 
 # About me 
 
@@ -39,3 +29,9 @@ Main Research Interests:
 - Machine learning with a deep understanding of geostatistical analysis.
 - Petrophysical seismic inversion based on advanced geostatistical methods and quantification of uncertainty.
 - Rock physics.
+
+# Education
+
+2017-Now:  National Autonomous University of Mexico, Mexico.    Ph.D. Applied Geostatistics
+2015-2016: National Autonomous University of Mexico, Mexico.    M.Sc. Applied Geostatistics
+2009-2014: University of Pinar del Rio, Hermanos Saíz Montes de Oca, Cuba.   B.Sc. Geological Engineering
