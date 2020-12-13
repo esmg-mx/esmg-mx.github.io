@@ -9,9 +9,10 @@ phone:
 fax:  
 email: levanhuong15011989@gmail.com
 pdf: /media/resume/CV_Le.pdf
-GitHub: https://github.com/levanhuong
-Linkedin: https://www.linkedin.com/in/van-huong-le-6024a1109/
-Researchgate: https://www.researchgate.net/profile/Van_Huong_Le
+pdflink: 
+github: https://github.com/levanhuong
+linkedin: https://www.linkedin.com/in/van-huong-le-6024a1109/
+researchgate: https://www.researchgate.net/profile/Van_Huong_Le
 website: https://independent.academia.edu/huonglevan2
 image: /images/teampic/ImagenHuong.jpg
 permalink: group/HuongLe
