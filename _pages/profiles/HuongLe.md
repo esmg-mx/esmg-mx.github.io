@@ -2,8 +2,9 @@
 title: "ESMG-MX: Member profile"
 subtitle: "M.Sc. Van Huong Le"
 layout: profile
-info: "PhD student"
-workplace: "Earth Sciences Graduate Program, UNAM"
+info: "PhD student at the Earth Sciences Graduate Program, UNAM"
+workplace: "Cto. de los Posgrados S/N, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico"
+email: levanhuong15011989@gmail.com
 mobile: 
 phone:  
 fax:  
@@ -19,9 +20,17 @@ image: /images/teampic/ImagenHuong.jpg
 permalink: group/HuongLe
 ---
 
+# EDUCATION
+
+2017-Now  National Autonomous University of Mexico, Mexico. Ph.D. Applied Geostatistics
+2015-2016 National Autonomous University of Mexico, Mexico.  M.Sc. Applied Geostatistics
+2009-2014 University of Pinar del Rio, Hermanos Saíz Montes de Oca, Cuba. B.Sc. Geological Engineering
+
+
+
 # About me 
 
-PhD student at the Earth Sciences Graduate Program, UNAM.
+Currently, I am finishing my PhD at the National Autonomous University of Mexico, Mexico. The title of my doctoral thesis is "Copula-based modeling for petrophysical property prediction using seismic attributes as secondary variables".
 
 Main Research Interests:
 - Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
