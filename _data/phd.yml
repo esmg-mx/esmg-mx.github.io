@@ -28,12 +28,12 @@
   number_educ: 1
   education1: Lic. Matemáticas, Facultad de Ciencias, UNAM (2008) 
 
-- name: Eng. Le Van Huong
+- name: M.Sc. Le Van Huong
   photo: ImagenHuong.jpg
   info: PhD student
   email: levanhuong15011989@gmail.com
   number_educ: 1
-  education1: Ambientes y Procesos Sedimentarios, Métodos electromagnéticos, Teoría de Inversión Geofísica, Procesamiento de datos Geofísicos y Programación Científica
+  education1: Main Research Interests: Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
 
 - name: M.Sc. Daniel Vázquez-Ramírez
   photo: ImagenDaniel.jpg
