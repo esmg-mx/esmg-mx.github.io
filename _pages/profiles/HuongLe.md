@@ -39,4 +39,5 @@ Main Research Interests:
 # Teaching
 
 2016-Now: He has been a teaching assistant of Geostatistics at the National Autonomous University of Mexico.
+
 2009-2011: He was a teaching assistant of General Chemistry, Physics, Mathematics I, Mathematics II, Mathematics III and Algebra at the University of Pinar del Río, Cuba.
