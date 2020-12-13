@@ -11,7 +11,7 @@ email: levanhuong15011989@gmail.com
 pdf: /media/resume/CV_Le.pdf
 GitHub: https://github.com/levanhuong
 Linkedin: https://www.linkedin.com/in/van-huong-le-6024a1109/
-researchgate: https://www.researchgate.net/profile/Van_Huong_Le
+Researchgate: https://www.researchgate.net/profile/Van_Huong_Le
 website: https://independent.academia.edu/huonglevan2
 image: /images/teampic/ImagenHuong.jpg
 permalink: group/HuongLe
@@ -22,9 +22,9 @@ permalink: group/HuongLe
 PhD student at the Earth Sciences Graduate Program, UNAM.
 
 Main Research Interests:
-    • Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
-    • Integration methodology of different quantitative and qualitative information based on advanced geostatistical methods for reservoir characterization.
-    • Inverse theory and optimization: Bayesian and geostatistical inversion.
-    • Machine learning with a deep understanding of geostatistical analysis.
-    • Petrophysical seismic inversion based on advanced geostatistical methods and quantification of uncertainty.
-    • Rock physics.
+- Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
+- Integration methodology of different quantitative and qualitative information based on advanced geostatistical methods for reservoir characterization.
+- Inverse theory and optimization: Bayesian and geostatistical inversion.
+- Machine learning with a deep understanding of geostatistical analysis.
+- Petrophysical seismic inversion based on advanced geostatistical methods and quantification of uncertainty.
+- Rock physics.
