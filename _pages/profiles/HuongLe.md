@@ -17,6 +17,17 @@ academia: https://independent.academia.edu/huonglevan2
 image: /images/teampic/ImagenHuong.jpg
 permalink: group/HuongLe
 ---
+# Education
+
+2017-Now:  National Autonomous University of Mexico, Mexico.    Ph.D. Applied Geostatistics
+2015-2016: National Autonomous University of Mexico, Mexico.    M.Sc. Applied Geostatistics
+2009-2014: University of Pinar del Rio, Hermanos Saíz Montes de Oca, Cuba.   B.Sc. Geological Engineering
+
+# Teaching
+
+2016-Now: He has been a teaching assistant of Geostatistics at the National Autonomous University of Mexico.
+
+2009-2011: He was a teaching assistant of General Chemistry, Physics, Mathematics I, Mathematics II, Mathematics III and Algebra at the University of Pinar del Río, Cuba.
 
 # About me 
 
@@ -29,15 +40,3 @@ Main Research Interests:
 - Machine learning with a deep understanding of geostatistical analysis.
 - Petrophysical seismic inversion based on advanced geostatistical methods and quantification of uncertainty.
 - Rock physics.
-
-# Education
-
-2017-Now:  National Autonomous University of Mexico, Mexico.    Ph.D. Applied Geostatistics
-2015-2016: National Autonomous University of Mexico, Mexico.    M.Sc. Applied Geostatistics
-2009-2014: University of Pinar del Rio, Hermanos Saíz Montes de Oca, Cuba.   B.Sc. Geological Engineering
-
-# Teaching
-
-2016-Now: He has been a teaching assistant of Geostatistics at the National Autonomous University of Mexico.
-
-2009-2011: He was a teaching assistant of General Chemistry, Physics, Mathematics I, Mathematics II, Mathematics III and Algebra at the University of Pinar del Río, Cuba.
