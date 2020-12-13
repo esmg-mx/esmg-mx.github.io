@@ -8,7 +8,7 @@ mobile:
 phone:  
 fax:  
 email: levanhuong15011989@gmail.com
-pdf: https://github.com/esmg-mx/esmg-mx.github.io/blob/master/media/resume/CV_LE.pdf
+pdf: resume/CV_mdiaz.pdf
 pdflink:
 website: http://www.esmg-mx.org/group/HuongLe
 github: https://github.com/levanhuong
