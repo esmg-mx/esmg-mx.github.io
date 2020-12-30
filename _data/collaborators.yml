@@ -61,3 +61,12 @@
   info: Investigador científico
   email: 
   number_educ: 0 
+  
+- name: M.Sc. Heber Hernández Guerra
+  photo: Imagen.png
+  info: Es ingeniero civil de minas, master en minería y estudiante de doctorado de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, director general e investigador en Nube Minera e Ingeniería SPA. 
+  email: heber@nubeminera.cl
+  number_educ: 2
+  education1: https://www.researchgate.net/profile/Heber_Hernandez2 
+  education2: https://github.com/heberallin/
+  
