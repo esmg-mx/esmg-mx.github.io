@@ -54,13 +54,7 @@
   email: jorge.perera@cicy.mx
   number_educ: 2
   education1: Modelación analítica y numérica de fluidos y contaminantes en medios porosos. Pruebas de presión y trazadores. Caracterización geofísica e hidrogeológica de acuíferos subterráneos
-  education2: <a href="https://www.cicy.mx/unidad-de-ciencias-del-agua/investigador/jorge-adrian-perera-burgos">Personal website</a>
-  
-- name: Dr. Eduardo Campos Sepúlveda
-  photo: Imagen.png
-  info: Investigador científico
-  email: 
-  number_educ: 0 
+  education2: <a href="https://www.cicy.mx/unidad-de-ciencias-del-agua/investigador/jorge-adrian-perera-burgos">Personal website</a> 
   
 - name: M.Sc. Heber Hernández Guerra
   photo: Imagen.png
@@ -69,4 +63,10 @@
   number_educ: 2
   education1: <a href="https://www.researchgate.net/profile/Heber_Hernandez2">Personal website</a> 
   education2: <a href="https://github.com/heberallin/">Personal website</a>
+  
+- name: Dr. Eduardo Campos Sepúlveda
+  photo: Imagen.png
+  info: Investigador científico
+  email: 
+  number_educ: 0
   
