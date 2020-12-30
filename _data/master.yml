@@ -14,7 +14,7 @@
   
 - name: Eng. Carlos A. Romano-Pérez
   photo: ImagenRomano.jpg
-  Info:  Petroleum engineer
+  Info:  Petroleum Engineer
   email: carlos_alberto@comunidad.unam.mx
   number_educ: 2
   education1:  I am currently working on my master’s degree thesis in the Engineering Postgraduate Program at the National Autonomous University of Mexico (Universidad Nacional Autónoma de México, UNAM), tutored by Dr. Martin Díaz-Viera of the Mexican Petroleum Institute. The purpose of my research is to use discrete fracture models in EOR simulations.
@@ -22,22 +22,34 @@
 
 - name: Eng. Javier A. Estrada-Santos
   photo: ImagenJES.jpg
-  Info:  Petroleum engineer
+  Info:  Petroleum Engineer
   email: javierestradasantos@gmail.com
   number_educ: 1
   education1:  Modelación de flujo y transporte con adsorción en medios porosos
 
 - name: Eng. Edgar G. Martínez-Mendoza
   photo: ImagenEdgar.jpg
-  Info:  Petroleum engineer
+  Info:  Petroleum Engineer
   email: edgarg.martinezm@gmail.com
   number_educ: 1
   education1:  Pore-scale modeling via the pore network approach
   
 - name: Rosario Pacheco Serrano
-  photo: 
-  info: 
+  photo: Imagen.png
+  info: Geological Engineer
   email: ros.pach.ser@gmail.com 
+  number_educ: 0
+
+- name: Yarilis Gómez Martínez
+  photo: Imagen.png
+  info: Geophysical Engineer
+  email: yarilisgm@gmail.com
+  number_educ: 0
+  
+- name: Martín Fernández Vergara
+  photo: Imagen.png
+  info: Geophysical Engineer
+  email: mfernandez@imp.mx
   number_educ: 0
  
 - name: "This could be you!"
