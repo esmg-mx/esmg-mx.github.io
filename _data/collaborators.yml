@@ -50,7 +50,7 @@
   
 - name: Dr. Jorge Adrián Perera Burgos
   photo: ImageJorgePerera.png
-  info: Cátedras Conacyt – Centro de Investigación Científica de Yucatán, Unidad de Ciencias del Agua
+  info: Cátedras Conacyt-Centro de Investigación Científica de Yucatán, Unidad de Ciencias del Agua
   email: jorge.perera@cicy.mx
   number_educ: 2
   education1: Modelación analítica y numérica de fluidos y contaminantes en medios porosos. Pruebas de presión y trazadores. Caracterización geofísica e hidrogeológica de acuíferos subterráneos
@@ -62,7 +62,7 @@
   email: heber@nubeminera.cl
   number_educ: 2
   education1: <a href="https://www.researchgate.net/profile/Heber_Hernandez2">Personal website</a> 
-  education2: <a href="https://github.com/heberallin/">Personal website</a> 
+  education2: <a href="https://github.com/heberallin">Personal website</a> 
   
 - name: Dr. Eduardo Campos Sepúlveda
   photo: Imagen.png
