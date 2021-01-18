@@ -44,25 +44,35 @@ Main Research Interests:
 
 # Investigation
 
-1. Paper in preparation "Copula-based model for petrophysical property and facies prediction conditioned by elastic attributes".
+1. The recognition of his work as the best doctoral work in the area of Solid Earth presented at the congress of the annual meeting of the Mexican Geophysical Union (RAUGM 2020).
 
-2. He presented the work of “Multivariate copula-based model for predicting petrophysical properties using seismic attributes as secondary variables” in the 2020 annual meeting of the Mexican geophysical union.
+2. Papers in preparation: “C-vine parametric copulas-based multivariate dependency model for joint petrophysical property prediction conditioned by elastic attributes”, “D-vine quantile regression models for petrophysical property prediction using elastic seismic attributes as secondary variables”, “Kernel copula-based multivariate dependency model for stochastic spatial simulations of petrophysical properties”.
 
-3. He is a member of the Mexican Association of Exploration Geophysicists.
+3. He presented the work of “Multivariate copula-based model for predicting petrophysical properties using seismic attributes as secondary variables” in the annual meeting of the Mexican geophysical union (2020), Jalisco, Mexico.
 
-4. Published paper “Bernstein copula-based spatial cosimulation for petrophysical property prediction conditioned to elastic attributes”. Journal of Petroleum Science and Engineering 193 (2020) 107382.
+4. Van Huong Le, Martín A. Díaz-Viera, Daniel Vázquez-Ramírez, Raúl del Valle-García, Arturo Erdely, and Dario Grana, “Bernstein copula-based spatial cosimulation for petrophysical property prediction conditioned to elastic attributes”. Journal of Petroleum Science and Engineering 193 (2020) 107382.
 
-5. In 10th Annual Meeting and Jubilee Conference of InterPore (2018), his work of “A Prediction of the Spatial Distribution of Petrophysical Properties with Bernstein Copula using Seismic Attributes as Secondary Variables” was selected for the presentation poster.
+5. His work of “A Prediction of the Spatial Distribution of Petrophysical Properties with Bernstein Copula using Seismic Attributes as Secondary Variables” was selected for the presentation poster in 10th Annual Meeting and Jubilee Conference of InterPore (2018), Louisiana, USA.
 
-6. He presented the work of “Multivariate Exploratory Analysis Of Dependencies Between Petrophysical Properties And Seismic Attributes At Well-Logs Scale” in The Annual Meeting Of The Mexican Interpore Chapter (2017).
+6. He presented the work of “Multivariate exploratory analysis of dependencies between petrophysical properties and seismic attributes at well-logs scale” in the annual meeting of the Mexican Interpore Chapter (2017), Mexico city, Mexico.
 
-7. He presented the work of “Mineral Potential Mapping Of Mineral Deposits Of Sedex Type” in the VII Convention of Earth Sciences (2017), Habana, Cuba.
+7. He was coauthor of the work “Modelación estocástica conjunta usando cópulas de la dependencia entre propiedades petrofísicas y atributos sísmicos a escala de registros de pozo” which presented in the annual meeting of the Mexican Geophysical Union (2017), Jalisco, Mexico.
 
-8. He was a member of International Society for Porous Media (INTERPORE).
+8. He presented the work of “Mineral Potential Mapping Of Mineral Deposits Of Sedex Type” in the VII Convention of Earth Sciences (2017), Habana, Cuba.
 
-9. He was presented to 25 research events: Dept. of Mathematics (3), Dept. of Geology (2), Dept. of Language (2), Faculty of forestry and agronomy (3), Provincial, regional, national and international research (8), Research linked to practices (7) and obtained relevant prizes, outstanding prizes and mentions.
+9. He was presented to 25 research events: Dept. of Mathematics (3), Dept. of Geology (2), Dept. of Language (2), Faculty of forestry and agronomy (3), Provincial, regional, national and international research (8), Research linked to practices (7), and obtained relevant prizes, outstanding prizes and mentions in the University of Pinar del Rio, Cuba (2009-2014).
 
-10. He was a member of the Cuban Society of Geology and his researchs is linked to the Center of Studies of Environment and Natural Resources and the Geology and the company EMINCAR about “Investigation Project for the search of the basic and values deposits in the west of Pinar del Rio”.
+# Memberships in professional and honorary societies:
+
+1. He is a member of the International Society for Porous Media (INTERPORE).
+
+2. He is a member of the Society for Industrial and Applied Mathematics (SIAM).
+
+3. He is a member of the Mexican Association of Exploration Geophysicists (AMGE).
+
+4. He was a member of the Society of Exploration Geophysicists (SEG).
+
+5. He was a member of the Cuban Society of Geology and his researchs is linked to the Center of Studies of Environment and Natural Resources and the Geology and the company EMINCAR about “Investigation Project for the search of the basic and values deposits in the west of Pinar del Rio”.
 
 # Distinction
 
