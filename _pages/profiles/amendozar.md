@@ -3,7 +3,7 @@ title: "ESMG-MX: Member profile"
 subtitle: "Dra. Ana Mendoza-Rosasa"
 layout: profile
 info: "Researcher"
-workplace: "CIDESI"
+workplace: Catedrática CONACYT, Comisionada al Instituto de investigaciones en ciencias de la tierra (INICIT), Universidad Michoacana de San Nicolás de Hidalgo.
 mobile: 
 phone: 
 fax: 
