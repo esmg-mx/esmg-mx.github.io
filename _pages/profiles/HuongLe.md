@@ -2,7 +2,7 @@
 title: "ESMG-MX: Member profile"
 subtitle: "Dr. Van Huong LE"
 layout: profile
-info: "Visiting Research Scholar at the University of Wyoming, USA."
+info: "A Visiting Research Scholar at the University of Wyoming, USA."
 workplace: "email: levanhuong15011989@gmail.com"
 mobile: 
 phone:  
@@ -20,7 +20,11 @@ permalink: group/HuongLe
 
 # About me 
 
-Currently, I am finishing my PhD at the National Autonomous University of Mexico, Mexico. The title of my doctoral thesis is "Copula-based modeling for petrophysical property prediction using seismic attributes as secondary variables".
+Currently, I am a visiting scholar in the Department of Geology and Geophysics at the University of Wyoming. I obtained my doctorate degree in Applied Geostatistics in the Graduate Program in Earth Sciences at the National Autonomous University of Mexico, Mexico. The title of my doctoral thesis is ”Copula-based modeling for petrophysical property prediction using seismic attributes as secondary variables”. My main research interest is developing copula-based linear and nonlinear dependency relationship models for spatial stochastic simulations of natural phenomena in Earth Sciences. 
+
+Firstly, my professional qualification has been considerably acquired by studying around the world. In particular, I was the highest grade freshman in the Faculty of Geology at Hanoi University of Geology and Mining, and I won the bronze medal at the National Student Mathematics Olympiad in Vietnam. I obtained a Bachelor degree with distinction as the most outstanding foreign student of the University in Cuba. I obtained my doctorate degree with the Honorable Mention in Mexico. Currently, I am a visiting scholar in USA and collaborating with Dr. Dario Grana in conducting research on Bayesian and geostatistical inversion. I have also enrolled in a wide range of courses and conferences in Statistics, Geophysics, Geology, Geosciences and Earth Sciences in Vietnam, Cuba, Mexico, and USA.
+
+I have more than 5-years of pertinent experience conducting research in Applied Geostatistics in Earth Sciences. For example, since 2016 I have been working as an assistant to my tutor in his research projects at the Mexican Institute of Petroleum, Mexico. On the other hand, I was doing PhD projects which focus on the application of the copula-based dependency pattern recognition models for petrophysical property prediction using elastic seismic attributes as secondary variables.
 
 Main Research Interests:
 - Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
