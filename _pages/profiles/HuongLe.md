@@ -14,7 +14,7 @@ github: https://github.com/levanhuong
 linkedin: https://www.linkedin.com/in/van-huong-le-6024a1109/
 researchgate: https://www.researchgate.net/profile/Van_Huong_Le
 academia: https://independent.academia.edu/huonglevan2
-image: /images/teampic/LE5.jpg
+image: /images/teampic/LE5.png
 permalink: group/HuongLe
 ---
 
