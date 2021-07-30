@@ -55,7 +55,6 @@
   education4:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
   education5: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Armando2020.pdf">Resume</a>
   
-  
 - name: Dra. Ana Teresa Mendoza-Rosas
   photo: ImagenAna.jpg
   info: Catedrática CONACYT, Comisionada al Instituto de investigaciones en ciencias de la tierra (INICIT), Universidad Michoacana de San Nicolás de Hidalgo.
@@ -65,7 +64,7 @@
   education1: Maestría y Doctorado en Ciencia de la Tierra con líneas de investigación en peligro, riesgo volcánico y desarrollo de nuevas metodologías para pronosticar erupciones. 
   education2:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
   
-- name: <a href="http://www.esmg-mx.org/group/HuongLe">Dr. Van Huong Le </a> 
+- name: Dr. Van Huong LE
   photo: ImagenHuong.jpg
   info: PhD student
   email: levanhuong15011989@gmail.com
