@@ -7,7 +7,7 @@ workplace: "email: levanhuong15011989@gmail.com"
 mobile: 
 phone:  
 fax:  
-pdf: /media/resume/CV_Le.pdf
+pdf: /media/resume/CV_LE.pdf
 pdflink:
 website: http://www.esmg-mx.org/group/HuongLe
 github: https://github.com/levanhuong
