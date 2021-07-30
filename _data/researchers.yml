@@ -65,9 +65,10 @@
   education2:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
   
 - name: Dr. Van Huong LE
-  photo: <a href="http://www.esmg-mx.org/group/HuongLe"> ImagenHuong.jpg </a>
+  photo: ImagenHuong.jpg
   info: PhD student
   email: levanhuong15011989@gmail.com
+  keyword: HuongLe
   number_educ: 4
   education1: Main Research Interests&#58; Geostatistical (spatial stochastic) simulation based on copulas and global optimization methods (simulated annealing, differential evolution).
   education2: <a href="https://github.com/levanhuong">GitHub</a> 
