@@ -6,6 +6,6 @@ sitemap: false
 permalink: /publications
 ---
 
-# Open positions
+# Thesis, papers and publications.
 
 En esta sección podrá consultar las tesis de posgrado, articulos y presentaciones de los miembros del Grupo de Modelación en Ciencias de la Tierra (ESMG)
