@@ -10,7 +10,7 @@ permalink: /activities/
 # Activities
 The ESMG-MX conducts courses, seminars, documentation and publication of scientific articles. In addition, it proposes methods, models and software aimed at researchers and students interested in earth-science modeling.
 
-## Education
+## PCT Education
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.activities-education %}
@@ -47,7 +47,7 @@ The ESMG-MX conducts courses, seminars, documentation and publication of scienti
 
 <p> &nbsp; </p>
 
-## Education2
+## Online Education
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.activities-education2 %}
@@ -64,7 +64,7 @@ The ESMG-MX conducts courses, seminars, documentation and publication of scienti
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><strong>Semestre {{ publi.term }}<br><a href="courses/{{ publi.keyword }}">Página del curso</a></strong></p>
+  <p><strong> Curso online asincrónico {{ publi.term }}<br><a href="https://nubeminera.cl/course/gaerm/">Página del curso</a></strong></p>
  </div>
 </div>
 
