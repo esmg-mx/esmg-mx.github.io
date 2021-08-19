@@ -76,3 +76,10 @@
   email: cristobalroj@hotmail.com
   number_educ: 1
   education1: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_GEOL_CRISToBAL_ROJAS_2020.pdf">Resume</a>
+  
+  - name: Dr. Alfredo Garbuno Iñigo
+  photo: photo_alfredo_garbuno.jpg
+  info: Currently I am the academic director of the Msc in Data Science and an assistant professor at Instituto Tecnológico Autónomo de México (ITAM). I teach courses for the Department of Statistics and the masters programme in Data Science at ITAM. My research interests gravitate around Bayesian inverse problems, data assimilation, nonparametric Bayesian methods, stochastic processes, and stochastic differential equations. Part of my research has been developed and incorporated on the project of the Climate Modeling Alliance (CliMA). My contribution in the project is aimed towards data assimilation and uncertainty quantification for complex simulators. This is a very common endeavor that can be encountered in broad engineering applications. 
+  email: alfredo.garbuno@itam.mx
+  number_educ: 1
+  education1: <a href="https://agarbuno.github.io/">Personal page</a>
