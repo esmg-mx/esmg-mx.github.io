@@ -26,7 +26,7 @@
   education1: Software development for real time predictive analytics in the upstream oil and gas industry
   education2: <a href="https://www.linkedin.com/in/mathematicalphysicist/">Linkedin</a>
   education3: <a href="https://github.com/mathphysmx/">GitHub</a>
-  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_francisco_eg.pdf">Resume</a>
+  education4: <a href="/media/resume/CV_francisco_eg.pdf">Resume</a>
   
 - name: Dr. Alejandro Alonzo García
   photo: ImagenAlejandro.jpeg
@@ -36,7 +36,7 @@
   education1: Estimación de propiedades de flujo en medios porosos simplificados y realistas en los regímenes Darcianos, laminares y turbulentos
   education2: Control de la capa límite turbulenta
   education3: Diseño de Reactores Agitados mediante Dinámica de Fluidos Computacionales
-  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Alejandro2020.pdf">Resume</a>
+  education4: <a href="/media/resume/CV_Alejandro2020.pdf">Resume</a>
   
 - name: Dra. Anabel Hernández Ramirez
   photo: ImagenAnabel.jpg
@@ -46,7 +46,7 @@
   education1: El principal interés es el desarrollo de modelos matemáticos, numéricos y computacionales de sistemas continuos
   education2: Ecuaciones diferenciales ordinarias aplicadas al problema de la circulación sanguínea (biomedicina)
   education3: Ecuaciones diferenciales parciales aplicadas al problema de flujo bifásico en medios porosos para la simulación de procesos de desplazamiento de campo de fuerzas de una centrífuga (petrofísica)
-  education4: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Anabel2020.pdf">Resume</a>
+  education4: <a href="/media/resume/CV_Anabel2020.pdf">Resume</a>
   
 - name: Dr. Jorge Adrián Perera Burgos
   photo: ImageJorgePerera.png
@@ -75,6 +75,6 @@
   info: José Cristóbal Rojas Castillo is a Geologist, based in Sinaloa, Mexico. He has 13 years of experience in the mining industry. He possesses an excellent understanding of economic geology, geological prospecting and exploration of precious and base metals, as well as non-metallic mineral deposits, open pit and underground mining, resource estimation and mineral reserves, Geostatistics, mine planning and evaluation of mining projects, Strong familiarity with international resource/reserve reporting codes. Is proficient in using various mining packages. 
   email: cristobalroj@hotmail.com
   number_educ: 1
-  education1: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_GEOL_CRISToBAL_ROJAS_2020.pdf">Resume</a>
+  education1: <a href="/media/resume/CV_GEOL_CRISToBAL_ROJAS_2020.pdf">Resume</a>
   
 
