@@ -53,7 +53,7 @@
   education2: Estudio de la interacción entre las placas tectónicas de Sudamérica y del Caribe
   education3: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
   education4:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
-  education5: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Armando2020.pdf">Resume</a>
+  education5: <a href="/media/resume/CV_Armando2020.pdf">Resume</a>
   
 - name: Dra. Ana Teresa Mendoza-Rosas
   photo: ImagenAna.jpg
