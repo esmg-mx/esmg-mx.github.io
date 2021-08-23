@@ -59,7 +59,7 @@
   number_educ: 3
   education1:  I graduated as a geophysical engineer from the IPN, a master and thesis student in the exploration discipline | EERN | UNAM, with the approach of modeling and simulation in terrigenous reservoirs.
   education2:  <a href="https://www.linkedin.com/in/anel-licona-caselin-563710142">LinkedIn</a>
-  education3: <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV Licona Caselin Zaira Anel.pdf">Resume</a>
+  education3:  <a href="{{ site.url }}{{ site.baseurl }}/media/resume/CV_Licona_Caselin_Zaira_ Anel.pdf">Resume</a>
  
 - name: "This could be you!"
   photo: rock.jpg
