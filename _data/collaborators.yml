@@ -1,6 +1,6 @@
 - name: Dr. Antonio Carrillo Ledesma
   photo: ImagenAntonio.jpg
-  info: Doctor en Ciencias de la Tierra por la UNAM, en el área de Modelación Matemática y Computacional de Sistemas Terrestres.
+  info: Doctor en Ciencias de la Tierra por la UNAM, en el área de Modelación Matemática y Computacional de Sistemas Terrestres
   email: antonio@mmc.geofisica.unam.mx
   number_educ: 1
   education1: <a href="http://www.fciencias.unam.mx/directorio/34691">Personal website</a>
@@ -16,7 +16,7 @@
   info: Investigador científico
   email: artrero77@gmail.com
   number_educ: 1      
-  education1: Líneas de investigación&#58; Dinámica de ondas de calor que se propagan en medios porosos, Modelación matemática y numérica de modelos geo mecánicos a escala de núcleo con fracturas.
+  education1: Líneas de investigación&#58; Dinámica de ondas de calor que se propagan en medios porosos, Modelación matemática y numérica de modelos geo mecánicos a escala de núcleo con fracturas
 
 - name: Dr. Francisco Mendoza Torres
   photo: ImagenFrancisco.png
@@ -88,6 +88,9 @@
   photo: Victor.jpg
   info: Profesor Investigador Ingeniero Tecnólogo Titular “A” ITA, de tiempo completo en INFOTEC, Centro de Investigación especializado en el desarrollo de tecnologías de la información y comunicación
   email: victor.hernandezm@infotec.mx
-  number_educ: 2
-  education1: Principales Intereses de Investigación: Mejoramiento en el desempeño computacional del modelado con Cópulas Multivariadas No Paramétricas, Aplicación de la teoría de cópulas en el modelado de la estructura de dependencia entre variables aleatorias con relación no lineal. -Geoestadística aplicada a geociencias. Modelado geológico-petrofísico de yacimientos petroleros. -Modelado tridimensional de prótesis maxilofaciales por estereolitografía y su impresión 3D
-  education2: <a href="https://www.researchgate.net/profile/Victor-Hernandez-Maldonado">ResearchGate</a> 
+  number_educ: 5
+  education1: Principales Intereses de Investigación: Mejoramiento en el desempeño computacional del modelado con Cópulas Multivariadas No Paramétricas, Aplicación de la teoría de cópulas en el modelado de la estructura de dependencia entre variables aleatorias con relación no lineal 
+  education2: Geoestadística aplicada a geociencias 
+  education3: education2:Modelado geológico-petrofísico de yacimientos petroleros
+  education4: Modelado tridimensional de prótesis maxilofaciales por estereolitografía y su impresión 3D
+  education5: <a href="https://www.researchgate.net/profile/Victor-Hernandez-Maldonado">ResearchGate</a> 
