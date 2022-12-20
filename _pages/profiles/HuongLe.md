@@ -126,7 +126,7 @@ Main Research Interests:
 # Languages 
 Vietnamese (native language)
 
-Spainish: Reading, Writing, Listening, Speaking.
+Spanish: Reading, Writing, Listening, Speaking.
 
 English: Reading, Writing, Listening, Speaking.
 
