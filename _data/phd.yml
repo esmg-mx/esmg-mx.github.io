@@ -40,9 +40,16 @@
   number_educ: 1
   education1: Simulación de Yacimientos, Estabilidad Mecánica del Agujero
   
-- name: M.Sc. Sinai Morales-Chávez
+- name: M.Sc. Sinai Morales Chávez
   photo: Imagen.png
   info: PhD student
   email:  geomorales91@gmail.com
+  number_educ: 1
+  education1: Estudiante de doctorado en Instituto Mexicano del Petróleo
+
+- name: M.Eng. Jesus Manuel Carmona Perez
+  photo: Imagen.png
+  info: PhD student
+  email:  carmona.jesus.94@gmail.com
   number_educ: 1
   education1: Estudiante de doctorado en Instituto Mexicano del Petróleo
