@@ -33,21 +33,22 @@
   info: PhD student
   email: daniel.geofisico89@comunidad.unam.mx
   
-- name: M.Sc. Mario Enrique Vadillo Sáenz
+- name: M.Sc. Mario Enrique Vadillo-Sáenz
   photo: ImageMEVS.jpg
   info: PhD student
   email: marioevsz@gmail.com
   number_educ: 1
   education1: Simulación de Yacimientos, Estabilidad Mecánica del Agujero
   
-- name: M.Sc. Sinai Morales Chávez
+- name: M.Sc. Sinai Morales-Chávez
   photo: Imagen.png
   info: PhD student
   email:  geomorales91@gmail.com
   number_educ: 1
   education1: Estudiante de doctorado en Instituto Mexicano del Petróleo
+  education2: Petrofísica, modelado y simulacion en medios porosos
 
-- name: M.Eng. Jesus Manuel Carmona Perez
+- name: M.Eng. Jesus Manuel Carmona-Pérez
   photo: Imagen.png
   info: PhD student
   email:  carmona.jesus.94@gmail.com
