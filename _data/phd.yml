@@ -38,19 +38,24 @@
   info: PhD student
   email: marioevsz@gmail.com
   number_educ: 1
-  education1: Simulación de Yacimientos, Estabilidad Mecánica del Agujero
+  education1: Main Research Interests&#58; Reservoir Simulation, Borehole Mechanical Stability
   
 - name: M.Sc. Sinai Morales-Chávez
-  photo: Imagen.png
+  photo: ImagenSinai.jpg
   info: PhD student
   email:  geomorales91@gmail.com
-  number_educ: 2
-  education1: Estudiante de doctorado en Instituto Mexicano del Petróleo
-  education2: Petrofísica, modelado y simulación en medios porosos
+  number_educ: 7
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute
+  education2: M.Sc. in hydrocarbon exploration, Mexican Petroleum Institute (2020)
+  education3: B.Eng. in Geophysics, BUAP (2017)
+  education4: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
+  education5: <a href="https://github.com/smoralesc91">GitHub</a>
+  education6: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
+  education7: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
 
 - name: M.Eng. Jesus Manuel Carmona-Pérez
   photo: Imagen.png
   info: PhD student
   email:  carmona.jesus.94@gmail.com
   number_educ: 1
-  education1: Estudiante de doctorado en Instituto Mexicano del Petróleo
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute
