@@ -12,40 +12,33 @@
   info: PhD student
   email:  lemendez84@yahoo.com.mx
   number_educ: 1
-  education1: Estudiante de doctorado en la Universidad Nacional Autónoma de México
+  education1: Ph.D. student at National Autonomous University of Mexico (UNAM)
   
 - name: M.Sc. Andrea Rojas-Pardo
   photo: ImagenAndrea.jpg
   info: PhD student
   email: arojasp@alumnos.ucn.cl
   number_educ: 1
-  education1: Investigador de la Universidad Católica del Norte. Antofagasta, Chile 
+  education1: Researcher at Catholic University of the North (UCN), Antofagasta, Chile 
 
 - name: M.Sc. Carla D. Ayala-García
   photo: ImagenDaniela.jpg
   info: PhD student
   email: daniellaayala@ciencias.unam.mx
   number_educ: 1
-  education1: Lic. Matemáticas, Facultad de Ciencias, UNAM (2008) 
+  education1: B.Sc. in Mathematics, School of Sciences, UNAM (2008)
   
 - name: M.Sc. Daniel Vázquez-Ramírez
   photo: ImagenDaniel.jpg
   info: PhD student
   email: daniel.geofisico89@comunidad.unam.mx
   
-- name: M.Sc. Mario Enrique Vadillo-Sáenz
-  photo: ImageMEVS.jpg
-  info: PhD student
-  email: marioevsz@gmail.com
-  number_educ: 1
-  education1: Main Research Interests&#58; Reservoir Simulation, Borehole Mechanical Stability
-  
 - name: M.Sc. Sinai Morales-Chávez
   photo: ImagenSinai.jpg
   info: PhD student
   email:  geomorales91@gmail.com
   number_educ: 5
-  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
   education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
   education3: <a href="https://github.com/smoralesc91">GitHub</a>
   education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
@@ -56,4 +49,4 @@
   info: PhD student
   email:  carmona.jesus.94@gmail.com
   number_educ: 1
-  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
