@@ -1,68 +1,46 @@
-- name: Mat. Juan E. Linares-Pérez
-  photo: ImagenEduardo.jpg
-  Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
-  email: eduardo_linares@comunidad.unam.mx
-  number_educ: 1
-  education1: Tesis de maestría en el Instituto Mexicano del Petróleo
+- name: Ing. Zaira Anel Licona Caselin
+  photo: photo_ZALC.jpe
+  Info: Geophysical Engineer
+  email: anel.licona@hotmail.com
+  number_educ: 5
+  education1: Geophysical engineer from IPN
+  education2: Master's student in Exploration Engineering for Oil and Gas at UNAM
+  education3: Main Research Interests&#58; Modeling and simulation in terrigenous reservoirs
+  education4: <a href="https://www.linkedin.com/in/anel-licona-caselin-563710142">LinkedIn</a>
+  education5: <a href="/media/resume/CV_Licona_Caselin_Zaira_ Anel.pdf"> Resume </a>
 
 - name: Mat. Mario Noyola-Rodríguez
   photo: ImagenMario.jpg
-  Info:  Estudiante del posgrado en Ciencias de la Tierra en el Instituto de Geofísica de la UNAM en el área de Modelación de Sistemas Terrestres.
+  Info: B.Sc. in Mathematics
   email: estaduagro@hotmail.com 
   number_educ: 1
-  education1: Tesis de maestría en el Instituto Mexicano del Petróleo.
+  education1: Master's thesis in Earth Sciences at the Institute of Geophysics of the UNAM in the area of Earth System Modeling in collaboration with the Mexican Petroleum Institute (IMP)
   
 - name: Eng. Carlos A. Romano-Pérez
   photo: ImagenRomano.jpg
-  Info:  Petroleum Engineer
+  Info: Petroleum Engineer
   email: carlos_alberto@comunidad.unam.mx
-  number_educ: 2
-  education1:  I am currently working on my master’s degree thesis in the Engineering Postgraduate Program at the National Autonomous University of Mexico (Universidad Nacional Autónoma de México, UNAM), tutored by Dr. Martin Díaz-Viera of the Mexican Petroleum Institute. The purpose of my research is to use discrete fracture models in EOR simulations.
-  education2:  <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
+  number_educ: 4
+  education1: Master’s student in the Engineering Postgraduate Program at the National Autonomous University of Mexico (UNAM).
+  education2: Advisor&#58; Martín A. Díaz-Viera
+  education3: Main Research Interests&#58; Discrete fracture models in EOR simulations
+  education4: <a href="https://www.researchgate.net/profile/Carlos_Romano-Perez">ResearchGate</a>
 
 - name: Eng. Javier A. Estrada-Santos
   photo: ImagenJES.jpg
-  Info:  Petroleum Engineer
+  Info: Petroleum Engineer
   email: javierestradasantos@gmail.com
   number_educ: 1
-  education1:  Modelación de flujo y transporte con adsorción en medios porosos
-
-- name: Eng. Edgar G. Martínez-Mendoza
-  photo: ImagenEdgar.jpg
-  Info:  Petroleum Engineer
-  email: edgarg.martinezm@gmail.com
-  number_educ: 1
-  education1:  Pore-scale modeling via the pore network approach
-  
-- name: Rosario Pacheco Serrano
-  photo: Imagen.png
-  info: Geological Engineer
-  email: ros.pach.ser@gmail.com 
-  number_educ: 0
-
-- name: Yarilis Gómez Martínez
-  photo: Imagen.png
-  info: Geophysical Engineer
-  email: yarilisgm@gmail.com
-  number_educ: 0
+  education1: Main Research Interests&#58; Flow and transport modeling with adsorption in porous media
   
 - name: Martín Fernández Vergara
   photo: Imagen.png
   info: Geophysical Engineer
   email: mfernandez@imp.mx
   number_educ: 0
-
-- name: Ing. Zaira Anel Licona Caselin
-  photo: photo_ZALC.jpe
-  Info:  Geophysical Engineer
-  email: anel.licona@hotmail.com
-  number_educ: 3
-  education1:  I graduated as a geophysical engineer from the IPN, a master and thesis student in the exploration discipline | EERN | UNAM, with the approach of modeling and simulation in terrigenous reservoirs.
-  education2:  <a href="https://www.linkedin.com/in/anel-licona-caselin-563710142">LinkedIn</a>
-  education3:  <a href="/media/resume/CV_Licona_Caselin_Zaira_ Anel.pdf"> Resume </a>
  
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: mdiazv64@yahoo.com.mx
+  email: mdiazv64@gmail.com
   number_educ: 0

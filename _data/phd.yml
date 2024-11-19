@@ -12,12 +12,13 @@
   photo: ImagenSinai.jpg
   info: PhD student
   email:  geomorales91@gmail.com
-  number_educ: 5
+  number_educ: 6
   education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
-  education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
-  education3: <a href="https://github.com/smoralesc91">GitHub</a>
-  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
-  education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
+  education2: M.Sc. in hydrocarbon exploration at Mexican Petroleum Institute (IMP)
+  education3: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
+  education4: <a href="https://github.com/smoralesc91">GitHub</a>
+  education5: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
+  education6: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
 
 - name: M.Eng. Jesus Manuel Carmona-Pérez
   photo: ImagenCarmona.png
@@ -25,8 +26,16 @@
   email:  carmona.jesus.94@gmail.com
   number_educ: 3
   education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
-  education2: M.Eng. Enviromental Engineering and Sustainable Development at UPAEP
+  education2: M.Eng. in Enviromental Engineering and Sustainable Development at UPAEP
   education3: Main Research Interests&#58; Enhanced oil recovery (EOR), Low Salinity Water Flooding (LSWF)
+
+- name: M.Sc. Juan E. Linares-Pérez
+  photo: ImagenEduardo.jpg
+  Info:  PhD student
+  email: eduardo_linares@comunidad.unam.mx
+  number_educ: 2
+  education1: Ph.D. student at National Autonomous University of Mexico (UNAM)
+  education2: Master's thesis in Earth Sciences at the Institute of Geophysics of the UNAM in the area of Earth System Modeling in collaboration with the Mexican Petroleum Institute (IMP).
 
 - name: M.Sc. Javier Méndez-Venegas
   photo: ImagenJavier.jpg
