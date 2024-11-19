@@ -110,14 +110,14 @@
 
 - name: M.Eng. Edgar G. Martínez-Mendoza
   photo: ImagenEdgar.jpg
-  Info:  Petroleum Engineer
+  info:  Petroleum Engineer
   email: edgarg.martinezm@gmail.com
   number_educ: 1
   education1: Main Research Interests&#58; Pore-scale modeling via the pore network approach
 
 - name: M.Sc. Mario Noyola-Rodríguez
   photo: ImagenMario.jpg
-  Info: B.Sc. in Mathematics
+  info: B.Sc. in Mathematics
   email: estaduagro@hotmail.com 
   number_educ: 1
   education1: M.Sc. in Earth Sciences at the Institute of Geophysics of the UNAM in the area of Earth System Modeling in collaboration with the Mexican Petroleum Institute (IMP)
