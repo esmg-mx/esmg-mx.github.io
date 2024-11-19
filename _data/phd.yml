@@ -6,7 +6,28 @@
 #  education1:  
 #  education2:  
 #  education3: 
-#  education4: 
+#  education4:
+
+- name: M.Sc. Sinai Morales-Chávez
+  photo: ImagenSinai.jpg
+  info: PhD student
+  email:  geomorales91@gmail.com
+  number_educ: 5
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
+  education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
+  education3: <a href="https://github.com/smoralesc91">GitHub</a>
+  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
+  education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
+
+- name: M.Eng. Jesus Manuel Carmona-Pérez
+  photo: ImagenCarmona.png
+  info: PhD student
+  email:  carmona.jesus.94@gmail.com
+  number_educ: 3
+  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
+  education2: M.Eng. Enviromental Engineering and Sustainable Development at UPAEP
+  education3: Main Research Interests&#58; Enhanced oil recovery (EOR), Low Salinity Water Flooding (LSWF)
+
 - name: M.Sc. Javier Méndez-Venegas
   photo: ImagenJavier.jpg
   info: PhD student
@@ -27,21 +48,3 @@
   email: daniellaayala@ciencias.unam.mx
   number_educ: 1
   education1: B.Sc. in Mathematics, School of Sciences, UNAM (2008)
-  
-- name: M.Sc. Sinai Morales-Chávez
-  photo: ImagenSinai.jpg
-  info: PhD student
-  email:  geomorales91@gmail.com
-  number_educ: 5
-  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
-  education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
-  education3: <a href="https://github.com/smoralesc91">GitHub</a>
-  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
-  education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
-
-- name: M.Eng. Jesus Manuel Carmona-Pérez
-  photo: Imagen.png
-  info: PhD student
-  email:  carmona.jesus.94@gmail.com
-  number_educ: 1
-  education1: Ph.D. student in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
