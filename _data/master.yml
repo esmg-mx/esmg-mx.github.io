@@ -1,6 +1,6 @@
 - name: Ing. Zaira Anel Licona Caselin
   photo: photo_ZALC.jpe
-  Info: Geophysical Engineer
+  info: Geophysical Engineer
   email: anel.licona@hotmail.com
   number_educ: 5
   education1: Geophysical engineer from IPN
@@ -11,7 +11,7 @@
 
 - name: Eng. Carlos A. Romano-Pérez
   photo: ImagenRomano.jpg
-  Info: Petroleum Engineer
+  info: Petroleum Engineer
   email: carlos_alberto@comunidad.unam.mx
   number_educ: 4
   education1: Master’s student in the Engineering Postgraduate Program at the National Autonomous University of Mexico (UNAM).
@@ -21,7 +21,7 @@
 
 - name: Eng. Javier A. Estrada-Santos
   photo: ImagenJES.jpg
-  Info: Petroleum Engineer
+  info: Petroleum Engineer
   email: javierestradasantos@gmail.com
   number_educ: 1
   education1: Main Research Interests&#58; Flow and transport modeling with adsorption in porous media
