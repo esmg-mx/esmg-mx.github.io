@@ -106,3 +106,24 @@
   photo: ImagenDaniel.jpg
   info: Researcher
   email: daniel.geofisico89@comunidad.unam.mx
+  number_educ: 0
+
+- name: M.Eng. Edgar G. Martínez-Mendoza
+  photo: ImagenEdgar.jpg
+  Info:  Petroleum Engineer
+  email: edgarg.martinezm@gmail.com
+  number_educ: 1
+  education1: Main Research Interests&#58; Pore-scale modeling via the pore network approach
+
+- name: M.Sc. Rosario Pacheco Serrano
+  photo: Imagen.png
+  info: Geological Engineer
+  email: ros.pach.ser@gmail.com 
+  number_educ: 1
+  education1: M.Sc. in hydrocarbon exploration at Mexican Petroleum Institute (IMP)
+
+- name: M.Sc. Yarilis Gómez Martínez
+  photo: Imagen.png
+  info: Geophysical Engineer
+  email: yarilisgm@gmail.com
+  number_educ: 0
