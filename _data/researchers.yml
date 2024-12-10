@@ -1,72 +1,72 @@
-- name: Dr. Martín A. Díaz-Viera
+- name: Ph.D. Martín A. Díaz-Viera
   photo: ImagenMartin2.jpg
-  info: Scientific Researcher at Additional Oil Recovery Engineering Department in the Mexican Petroleum Institute
+  info: Research Scientist in the Hydrocarbon Exploitation Department at the Mexican Petroleum Institute.
   email: mdiazv@imp.mx
   keyword: mdiazv
   number_educ: 2
-  education1: Main Research Interests&#58; Mathematical, Numerical and Computational Modeling of Earth Systems; Flow and transport modeling in porous media; Geostatistics and Spatial Stochastic Models; Applications to problems in soils, aquifers, mining and oil reservoirs
+  education1: Main Research Interests&#58; Mathematical, Numerical and Computational Modeling of Earth Systems; Flow and transport modeling in porous media; Geostatistics and Spatial Stochastic Models; Applications to problems in soils, aquifers, mining and oil reservoirs.
   education2: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
   
-- name: Dr. Arturo Erdely-Ruíz
+- name: Ph.D. Arturo Erdely-Ruíz
   photo: ArturoErdely2.jpg
-  info: Profesor de Carrera Titular "C" tiempo completo definitivo, Programa de Actuaría, Facultad de Estudios Superiores Acatlán - UNAM.
+  info: Full-time "C" Professor, Actuarial Science Programme, Faculty of Advanced Studies Acatlán - UNAM.
   email: arturo.erdely@comunidad.unam.mx
   keyword: aerdelyr
   number_educ: 3
-  education1: Doctorado en Ciencias Matemáticas (Estadística).
-  education2: Línea de investigación&#58; Funciones cópula y su aplicación en la construcción de modelos de probabilidad para variables aleatorias dependientes.
+  education1: PhD in Mathematics (Statistics).
+  education2: Main Research Interests&#58; Copula functions and their application in the construction of probability models for dependent random variables.
   education3: <a href="https://sites.google.com/site/arturoerdely/">Personal webpage</a>
 
-- name: Dr. Ricardo Casar-González
+- name: Ph.D. Ricardo Casar-González
   photo: ImagenRicardo.jpg
-  info: Geólogo Consultor en Geoestadística Aplicada a Recursos Naturales.
+  info: Consultant Geologist in Geostatistics Applied to Natural Resources.
   email: rcasar@yahoo.com.mx
   keyword: rcasarg
   number_educ: 1
-  education1: Líneas de investigación&#58; Geoestadística aplicada a geociencias. Modelado geológico-petrofísico de yacimientos petroleros. Caracterización y evaluación de recursos minerales. Modelado y evaluación de sitios contaminados.
+  education1: Main Research Interests&#58; Geostatistics applied to geosciences. Geological-petrophysical modelling of hydrocarbon reservoirs. Characterisation and evaluation of mineral resources. Modelling and evaluation of contaminated sites.
   
-- name: Dr. Arturo Ortíz-Tapia
+- name: Ph.D. Arturo Ortíz-Tapia
   photo: ImagenAOT.jpg
   info: Researcher
   email: aortiztapia2013@gmail.com
   keyword: aortizt
   number_educ: 1
-  education1: Investigación en modelación conceptual, matemática y computacional, aplicada sistemas continuos.
+  education1: Main Research Interests&#58; Conceptual, mathematical and computational modelling, applied to continuous systems.
   
-- name: Dr. Manuel Romero-Salcedo
+- name: Ph.D. Manuel Romero-Salcedo
   photo: ImagenManuel.jpg
-  info: Investigador científico en la Gerencia de Geofísica Cuantitativa, Instituto Mexicano del Petróleo.
+  info: Scientific researcher in the Exploration Department at the Mexican Petroleum Institute.
   email: mromeros@imp.mx
   keyword: mromeros
   number_educ: 3
-  education1: Líneas de investigación&#58; Intelligent Systems for Reservoir Characterization, soft computing, Artificial Neural Networks, Pattern Recognition, Image processing.
+  education1: Main Research Interests&#58; Intelligent Systems for Reservoir Characterization, soft computing, Artificial Neural Networks, Pattern Recognition, Image processing.
   education2: <a href="https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es">Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Manuel_Romero-Salcedo">ResearchGate</a>
 
-- name: Dr. Armando Altamira-Areyán
+- name: Ph.D. Armando Altamira-Areyán
   photo: ImagenArmando.jpg
-  info: Director de área en la Dirección General de Evaluación del Potencial Petrolero de la Comisión Nacional de Hidrocarburos.
+  info: Coordinator of the University Seminar on Hydrocarbon Research, UNAM
   email: armando.altamira@cnh.gob.mx
   keyword: aaltamiraa
-  number_educ: 5
-  education1: Sedimentología y estratigrafía de depósitos areno-arcillosos (ambientes continentales y marinos de aguas profundas) 
-  education2: Estudio de la interacción entre las placas tectónicas de Sudamérica y del Caribe
-  education3: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
-  education4:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
-  education5: <a href="/media/resume/CV_Armando2020.pdf">Resume</a>
+  number_educ: 4
+  education1: Main Research Interests&#58; Sedimentology and stratigraphy of sandy-clay deposits (continental and deep-water marine environments), Study of the interaction between the South American and Caribbean tectonic plates.
+  education2: <a href="https://scholar.google.com.mx/citations?user=vwi0__MAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  education3:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
+  education4: <a href="/media/resume/CV_Armando2020.pdf">Resume</a>
   
-- name: Dra. Ana Teresa Mendoza-Rosas
+- name: Ph.D. Ana Teresa Mendoza-Rosas
   photo: ImagenAna.jpg
-  info: Catedrática CONACYT, Comisionada al Instituto de investigaciones en ciencias de la tierra (INICIT), Universidad Michoacana de San Nicolás de Hidalgo.
+  info: Professor CONACYT, Commissioner at the Institute for Research in Earth Sciences (INICIT), University Michoacana of San Nicolás de Hidalgo.
   email: ana.t.mendoza.r@gmail.com
   keyword: amendozar
-  number_educ: 2
-  education1: Maestría y Doctorado en Ciencia de la Tierra con líneas de investigación en peligro, riesgo volcánico y desarrollo de nuevas metodologías para pronosticar erupciones. 
-  education2:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
+  number_educ: 3
+  education1: MSc and PhD in Earth Science.
+  education2: Main Research Interests&#58; Hazard, volcanic risk and development of new methodologies for forecasting eruptions. 
+  education3:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
   
-- name: Dr. Van Huong LE
+- name: Ph.D. Van Huong LE
   photo: LE5.png
-  info: A Visiting Research Scholar at the University of Wyoming, USA.
+  info: Postdoctoral Researcher at University of Delaware
   email: levanhuong15011989@gmail.com
   keyword: HuongLe
   number_educ: 4
@@ -75,25 +75,35 @@
   education3: <a href="https://www.linkedin.com/in/van-huong-le-6024a1109/">Linkedin</a> 
   education4: <a href="https://www.researchgate.net/profile/Van_Huong_Le">ResearchGate</a> 
   
-- name: Dr. Alfredo Garbuno Iñigo
+- name: Ph.D. Alfredo Garbuno-Iñigo
   photo: photo_alfredo_garbuno.jpg
-  info: Currently I am the academic director of the Msc in Data Science and an assistant professor at Instituto Tecnológico Autónomo de México (ITAM). I teach courses for the Department of Statistics and the masters programme in Data Science at ITAM. My research interests gravitate around Bayesian inverse problems, data assimilation, nonparametric Bayesian methods, stochastic processes, and stochastic differential equations. Part of my research has been developed and incorporated on the project of the Climate Modeling Alliance (CliMA). My contribution in the project is aimed towards data assimilation and uncertainty quantification for complex simulators. This is a very common endeavor that can be encountered in broad engineering applications. 
+  info: Academic Director of the Msc in Data Science and Assistant Professor at the Autonomous Technological Institute of Mexico (ITAM). 
   email: alfredo.garbuno@itam.mx
-  number_educ: 1
-  education1: <a href="https://agarbuno.github.io/">Personal page</a>
+  keyword: agarbuno
+  number_educ: 4
+  education1: Professor of the courses of the Department of Statistics and of the Master's Degree in Data Science at the ITAM.
+  education2: Main Research Interests&#58; Bayesian inverse problems, data assimilation, nonparametric Bayesian methods, stochastic processes, and stochastic differential equations. 
+  education3: Climate Modelling Alliance (CliMA) project collaborator (data assimilation and uncertainty quantification for complex simulators).
+  education4: <a href="https://agarbuno.github.io/">Personal page</a>
 
-- name: Dr. Raúl del Valle-García
+- name: Ph.D. Ernesto Rubio-Acosta
   photo: Imagen.png
-  info: Investigador Científico
+  info: Titular Academic Technician B TC Definitive, Applied Mathematics and Systems Research Institute, UNAM
+  keyword: erubio
+  number_educ: 1  
+  education1: Main Research Interests&#58; Computer science, interdisciplinary applications Engineering, biomedical Geochemistry and geophysics Physics, multidisciplinary Applied mathematics, Biomedical Engineering Engineering (miscellaneous) Geophysics Health informatics Physics and Astronomy (miscellaneous)
+
+- name: Ph.D. Raúl del Valle-García
+  photo: Imagen.png
+  info: Researcher
+  keyword: rdelvalle
   number_educ: 0
   
-- name: Dr. Olev Gurevich Titov
+- name: Ph.D. Olev Gurevich Titov
   photo: Imagen.png
-  info: Investigador Científico
+  info: Researcher
+  keyword: ogurevich
   number_educ: 0  
 
-- name: Dr. Ernesto Rubio-Acosta
-  photo: Imagen.png
-  info: Investigador Científico
-  number_educ: 0  
+
 
