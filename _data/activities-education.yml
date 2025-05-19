@@ -11,3 +11,15 @@
   keyword: geoestadistica
   highlight: 1
 
+- title: "Data Science"
+  image: Fano.png
+  description: Ciencia de datos
+  authors: "Dr. Martín A. Díaz-Viera"
+  assistance: ""
+  schedule: ""
+  place: ""
+  start: ""
+  term: 2025-1
+  link:
+  keyword: datascience
+  highlight: 2
