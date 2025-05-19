@@ -1,6 +1,6 @@
 ---
 title: "ESMG_MX: Data Science"
-layout: course_r1
+layout: course_datasc
 excerpt: "ESMG_MX: Data Science"
 sitemap: true
 permalink: activities/courses/datascience
