@@ -19,7 +19,20 @@
   schedule: ""
   place: ""
   start: ""
-  term: 2025-1
+  term: 2025-2
   link:
   keyword: datascience
+  highlight: 1
+
+- title: "Flow and Transport in Porous Media"
+  image: flow_transport_banner.png
+  description: Mathematical modeling, numerical and computational implementation of Flow and Transport in Porous Media
+  authors: "Dr. Martín A. Díaz-Viera"
+  assistance: ""
+  schedule: ""
+  place: ""
+  start: ""
+  term: 2025-2
+  link:
+  keyword: flowandtransport
   highlight: 1
