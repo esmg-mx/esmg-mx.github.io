@@ -1,6 +1,6 @@
 ---
 title: "ESMG_MX: Flow and Transport in Porous Media"
-layout: course
+layout: course_r1
 excerpt: "ESMG_MX: Flow and Transport in Porous Media"
 sitemap: true
 permalink: activities/courses/flowandtransport
