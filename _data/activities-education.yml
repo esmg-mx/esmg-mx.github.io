@@ -13,7 +13,7 @@
 
 - title: "Data Science"
   image: data_science_banner.png
-  description: Data Science Course
+  description: This course introduces core concepts of Data Science, Machine Learning, and Artificial Intelligence, emphasizing their proper application in Earth sciences through rigorous statistical analysis and data-driven modeling.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
@@ -24,9 +24,9 @@
   keyword: datascience
   highlight: 1
 
-- title: "Flow and Transport in Porous Media"
+- title: "Mathematical modeling, numerical and computational implementation of Flow and Transport in Porous Media"
   image: flow_transport_banner.png
-  description: Mathematical modeling, numerical and computational implementation of Flow and Transport in Porous Media
+  description: This course introduces the fundamentals of mathematical modeling and numerical simulation of flow and transport processes in porous media, with a focus on computational implementation for geoscientific and environmental applications.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
@@ -39,7 +39,7 @@
 
 - title: "LaTeX"
   image: latex_banner.png
-  description: LaTeX
+  description: This course provides a practical introduction to LaTeX, the standard typesetting system for scientific and technical documents. Students will learn to create well-structured reports, articles, and presentations, with a focus on formatting equations, figures, and references for academic and research work.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
