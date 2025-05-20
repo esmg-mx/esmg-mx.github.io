@@ -2,6 +2,18 @@
   headline : "Course taught at the National Autonomous University of Mexico (UNAM), 2025-1 semester"
   tag: "activities/courses/geoestadistica"
 
+- title: Data Science Applied to Earth Sciences 
+  headline : ""
+  tag: "activities/courses/datascience"
+
+- title: Mathematical modeling, numerical and computational implementation of Flow and Transport in Porous Media
+  headline : ""
+  tag: "activities/courses/flowandtransport"
+
+- title: Introduction to LaTeX
+  headline : ""
+  tag: "activities/courses/latex"
+
 - title: Seminars
   headline: "Presentations by ESMG-MX's members"
   tag: "activities/seminars"
