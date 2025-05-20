@@ -51,7 +51,7 @@ The Earth-Science Modeling Group has activities on teaching, research and applic
   </a>
 </div>
 
-The Earth-Science Modeling Group has activities on teaching, research and application of stochastic models of Earth Sciences. It also performs courses, seminars, documentation and publication of scientific papers. Besides, it proposes methods, models and software oriented to researches and students interested on realizing their work on spatial modeling. In this page it is shown the group activities, as well as the most recent work and news of its composing members.
+The Earth-Science Modeling Group is involved in teaching, research, and application of stochastic and deterministic models in the Earth Sciences. It also offers courses, seminars, and helps with scientific papers. It suggests ways to create spatial models for researchers and students. This page is where you can find information about group activities, as well as the latest news and updates from the members of the group.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
