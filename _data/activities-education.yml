@@ -11,9 +11,9 @@
   keyword: geoestadistica
   highlight: 1
 
-- title: "Data Science"
+- title: "Data Science Applied to Earth Sciences "
   image: data_science_banner.png
-  description: This course introduces core concepts of Data Science, Machine Learning, and Artificial Intelligence, emphasizing their proper application in Earth sciences through rigorous statistical analysis and data-driven modeling.
+  description: Data Science, Machine Learning, and Artificial Intelligence, emphasizing their proper application in Earth sciences through rigorous statistical analysis and data-driven modeling.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
@@ -26,7 +26,7 @@
 
 - title: "Mathematical modeling, numerical and computational implementation of Flow and Transport in Porous Media"
   image: flow_transport_banner.png
-  description: This course introduces the fundamentals of mathematical modeling and numerical simulation of flow and transport processes in porous media, with a focus on computational implementation for geoscientific and environmental applications.
+  description: Fundamentals of mathematical modeling and numerical simulation of flow and transport in porous media, with a focus on computational implementation for geoscientific applications.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
@@ -37,9 +37,9 @@
   keyword: flowandtransport
   highlight: 1
 
-- title: "LaTeX"
+- title: "Introduction to LaTeX"
   image: latex_banner.png
-  description: This course provides a practical introduction to LaTeX, the standard typesetting system for scientific and technical documents. Students will learn to create well-structured reports, articles, and presentations, with a focus on formatting equations, figures, and references for academic and research work.
+  description: Introduction to LaTeX, the standard typesetting system for scientific and technical documents. Students will learn to create well-structured reports, articles, and presentations, with a focus on formatting equations, figures, and references for academic and research work.
   authors: "Dr. Martín A. Díaz-Viera"
   assistance: ""
   schedule: ""
