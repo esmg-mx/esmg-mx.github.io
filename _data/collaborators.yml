@@ -72,11 +72,15 @@
 
 - name: B. Sc. José Cristóbal Rojas Castillo
   photo: JCRC.jpg
-  info: José Cristóbal Rojas Castillo is a Geologist, based in Sinaloa, Mexico. He has 13 years of experience in the mining industry. He possesses an excellent understanding of economic geology, geological prospecting and exploration of precious and base metals, as well as non-metallic mineral deposits, open pit and underground mining, resource estimation and mineral reserves, Geostatistics, mine planning and evaluation of mining projects, Strong familiarity with international resource/reserve reporting codes. Is proficient in using various mining packages
+  info: Geologist based in Sinaloa, Mexico, with 13 years of experience in the mining industry
   email: cristobalroj@hotmail.com
-  number_educ: 1
-  education1: <a href="/media/resume/CV_GEOL_CRISToBAL_ROJAS_2020.pdf">Resume</a>
-
+  number_educ: 5
+  education1: Excellent understanding of economic geology, geological prospecting, and exploration of precious and base metals, as well as non-metallic mineral deposits
+  education2: Expertise in open pit and underground mining, resource estimation, and mineral reserves
+  education3: Specialized in Geostatistics, mine planning, and evaluation of mining projects
+  education4: Strong familiarity with international resource/reserve reporting codes and proficiency in various mining software packages
+  education5: <a href="/media/resume/CV_GEOL_CRISToBAL_ROJAS_2020.pdf">Resume</a>
+  
 - name: Dr. Ouorou Ganni Mariel Guera
   photo: Mariel.png
   info: Solid background in forest management and utilization, applied statistics, experimental design, and mathematical modeling using traditional and Machine Learning techniques in biological and agricultural sciences
