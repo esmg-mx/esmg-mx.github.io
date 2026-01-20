@@ -1,4 +1,4 @@
-- name: Ph.D. Martín A. Díaz-Viera
+- name: Dr. Martín A. Díaz-Viera
   photo: ImagenMartin2.jpg
   info: Research Scientist in the Hydrocarbon Exploitation Department at the Mexican Petroleum Institute.
   email: mdiazv@imp.mx
@@ -7,7 +7,7 @@
   education1: Main Research Interests&#58; Mathematical, Numerical and Computational Modeling of Earth Systems; Flow and transport modeling in porous media; Geostatistics and Spatial Stochastic Models; Applications to problems in soils, aquifers, mining and oil reservoirs.
   education2: <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera">ResearchGate</a>
   
-- name: Ph.D. Arturo Erdely-Ruíz
+- name: Dr. Arturo Erdely-Ruíz
   photo: ArturoErdely2.jpg
   info: Full-time "C" Professor, Actuarial Science Programme, Faculty of Advanced Studies Acatlán - UNAM.
   email: arturo.erdely@comunidad.unam.mx
@@ -17,7 +17,7 @@
   education2: Main Research Interests&#58; Copula functions and their application in the construction of probability models for dependent random variables.
   education3: <a href="https://sites.google.com/site/arturoerdely/">Personal webpage</a>
 
-- name: Ph.D. Ricardo Casar-González
+- name: Dr. Ricardo Casar-González
   photo: ImagenRicardo.jpg
   info: Consultant Geologist in Geostatistics Applied to Natural Resources.
   email: rcasar@yahoo.com.mx
@@ -25,7 +25,7 @@
   number_educ: 1
   education1: Main Research Interests&#58; Geostatistics applied to geosciences. Geological-petrophysical modelling of hydrocarbon reservoirs. Characterisation and evaluation of mineral resources. Modelling and evaluation of contaminated sites.
   
-- name: Ph.D. Arturo Ortíz-Tapia
+- name: Dr. Arturo Ortíz-Tapia
   photo: ImagenAOT.jpg
   info: Researcher
   email: aortiztapia2013@gmail.com
@@ -33,7 +33,7 @@
   number_educ: 1
   education1: Main Research Interests&#58; Conceptual, mathematical and computational modelling, applied to continuous systems.
   
-- name: Ph.D. Manuel Romero-Salcedo
+- name: Dr. Manuel Romero-Salcedo
   photo: ImagenManuel.jpg
   info: Scientific researcher in the Exploration Department at the Mexican Petroleum Institute.
   email: mromeros@imp.mx
@@ -43,7 +43,7 @@
   education2: <a href="https://scholar.google.com.mx/citations?user=8MoU3YUAAAAJ&hl=es">Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Manuel_Romero-Salcedo">ResearchGate</a>
 
-- name: Ph.D. Armando Altamira-Areyán
+- name: Dr. Armando Altamira-Areyán
   photo: ImagenArmando.jpg
   info: Coordinator of the University Seminar on Hydrocarbon Research, UNAM
   email: armando.altamira@cnh.gob.mx
@@ -54,7 +54,7 @@
   education3:  <a href="https://www.researchgate.net/profile/Armando_Altamira2">ResearchGate</a>
   education4: <a href="/media/resume/CV_Armando2020.pdf">Resume</a>
   
-- name: Ph.D. Ana Teresa Mendoza-Rosas
+- name: Dr. Ana Teresa Mendoza-Rosas
   photo: ImagenAna.jpg
   info: Professor CONACYT, Commissioner at the Institute for Research in Earth Sciences (INICIT), University Michoacana of San Nicolás de Hidalgo.
   email: ana.t.mendoza.r@gmail.com
@@ -64,7 +64,7 @@
   education2: Main Research Interests&#58; Hazard, volcanic risk and development of new methodologies for forecasting eruptions. 
   education3:  <a href="https://www.researchgate.net/profile/Ana_Mendoza-Rosas">ResearchGate</a>  
   
-- name: Ph.D. Van Huong LE
+- name: Dr. Van Huong LE
   photo: LE5.png
   info: Postdoctoral Researcher at University of Delaware
   email: levanhuong15011989@gmail.com
@@ -75,7 +75,7 @@
   education3: <a href="https://www.linkedin.com/in/van-huong-le-6024a1109/">Linkedin</a> 
   education4: <a href="https://www.researchgate.net/profile/Van_Huong_Le">ResearchGate</a> 
   
-- name: Ph.D. Alfredo Garbuno-Iñigo
+- name: Dr. Alfredo Garbuno-Iñigo
   photo: photo_alfredo_garbuno.jpg
   info: Academic Director of the Msc in Data Science and Assistant Professor at the Autonomous Technological Institute of Mexico (ITAM). 
   email: alfredo.garbuno@itam.mx
@@ -86,20 +86,20 @@
   education3: Climate Modelling Alliance (CliMA) project collaborator (data assimilation and uncertainty quantification for complex simulators).
   education4: <a href="https://agarbuno.github.io/">Personal page</a>
 
-- name: Ph.D. Ernesto Rubio-Acosta
+- name: Dr. Ernesto Rubio-Acosta
   photo: Imagen.png
   info: Titular Academic Technician B TC Definitive, Applied Mathematics and Systems Research Institute, UNAM
   keyword: erubio
   number_educ: 1  
   education1: Main Research Interests&#58; Computer science, interdisciplinary applications Engineering, biomedical Geochemistry and geophysics Physics, multidisciplinary Applied mathematics, Biomedical Engineering Engineering (miscellaneous) Geophysics Health informatics Physics and Astronomy (miscellaneous)
 
-- name: Ph.D. Raúl del Valle-García
+- name: Dr. Raúl del Valle-García
   photo: Imagen.png
   info: Researcher
   keyword: rdelvalle
   number_educ: 0
   
-- name: Ph.D. Olev Gurevich Titov
+- name: Dr. Olev Gurevich Titov
   photo: Imagen.png
   info: Researcher
   keyword: ogurevich

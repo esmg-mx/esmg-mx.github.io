@@ -1,6 +1,6 @@
 - name: Dr. Antonio Carrillo Ledesma
   photo: ImagenAntonio.jpg
-  info: Ph.D. in Earth Sciences from UNAM, specializing in Mathematical and Computational Modeling of Earth Systems
+  info: Dr. in Earth Sciences from UNAM, specializing in Mathematical and Computational Modeling of Earth Systems
   email: antonio@mmc.geofisica.unam.mx
   number_educ: 1
   education1: <a href="http://www.fciencias.unam.mx/directorio/34691">Personal website</a>
@@ -64,7 +64,7 @@
 
 - name: M.Sc. Heber Hernández Guerra
   photo: Heber.jpg
-  info: Civil Mining Engineer, Master in Mining, and Ph.D. student at the University of the Basque Country (UPV/EHU); CEO and Researcher at Nube Minera e Ingeniería SpA
+  info: Civil Mining Engineer, Master in Mining, and Dr. student at the University of the Basque Country (UPV/EHU); CEO and Researcher at Nube Minera e Ingeniería SpA
   email: heber@nubeminera.cl
   number_educ: 2
   education1: <a href="https://www.researchgate.net/profile/Heber_Hernandez2">ResearchGate</a>
@@ -99,14 +99,14 @@
   education4: 3D modeling of maxillofacial prostheses via stereolithography and 3D printing
   education5: <a href="https://www.researchgate.net/profile/Victor-Hernandez-Maldonado">ResearchGate</a>
 
-- name: Ph.D. Mario Enrique Vadillo-Sáenz
+- name: Dr. Mario Enrique Vadillo-Sáenz
   photo: ImageMEVS.jpg
   info: Researcher
   email: marioevsz@gmail.com
   number_educ: 1
   education1: Main Research Interests&#58; Reservoir Simulation, Borehole Mechanical Stability
 
-- name: Ph.D. Daniel Vázquez-Ramírez
+- name: Dr. Daniel Vázquez-Ramírez
   photo: ImagenDaniel.jpg
   info: Researcher
   email: daniel.geofisico89@comunidad.unam.mx
@@ -140,12 +140,12 @@
   email: yarilisgm@gmail.com
   number_educ: 0
 
-- name: Ph.D. Sinai Morales-Chávez
+- name: Dr. Sinai Morales-Chávez
   photo: ImagenSinai.jpg
   info: Specialist at IMP
   email:  geomorales91@gmail.com
   number_educ: 5
-  education1: Ph.D. in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
+  education1: Dr. in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
   education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
   education3: <a href="https://github.com/smoralesc91">GitHub</a>
   education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
