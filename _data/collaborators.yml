@@ -125,7 +125,6 @@
   email: estaduagro@hotmail.com 
   number_educ: 1
   education1: M.Sc. in Earth Sciences at the Institute of Geophysics of the UNAM in the area of Earth System Modeling in collaboration with the Mexican Petroleum Institute (IMP)
-  
 
 - name: M.Sc. Rosario Pacheco Serrano
   photo: Imagen.png
@@ -150,3 +149,13 @@
   education3: <a href="https://github.com/smoralesc91">GitHub</a>
   education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
   education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
+
+- name: Dr. Javier A. Estrada-Santos
+  photo: ImagenJES.jpg
+  info: Petroleum Engineer & Computational Scientist
+  email: javierestradasantos@gmail.com
+  number_educ: 3
+  education1: Ph.D. from The University of Texas at Austin (2021)
+  education2: Researcher at Los Alamos National Laboratory (Center for Nonlinear Studies)
+  education3: Main Research Interests - Flow and transport modeling with adsorption in porous media, Soft Matter Chemistry, Lattice-Boltzmann methods, COMSOL Multiphysics simulations, and Machine Learning for permeability prediction
+
