@@ -7,9 +7,10 @@
 
 - name: Dr. Edscott Wilson García
   photo: ImagenEdscott.jpeg
-  info: Scientific Researcher
+  info: Scientific Researcher at Instituto Mexicano del Petróleo (IMP)
   email: edscott@imp.mx
-  number_educ: 0
+  number_educ: 1
+  education1: Main Research Interests - Applied Mathematics, Numerical simulation, and High-Performance Computing
 
 - name: Dr. Arturo Reyes Romero
   photo: ImagenArturo.jpg
@@ -40,7 +41,7 @@
 
 - name: Dra. Anabel Hernández Ramirez
   photo: ImagenAnabel.jpg
-  info: Universidad de las Américas Puebla and Universidad Anáhuac Puebla (Part-time Professor)
+  info: Professor at UDLAP, Universidad Anáhuac Puebla, and BUAP
   email: anabel.hernandez@udlap.mx
   number_educ: 4
   education1: Main interest is the development of mathematical, numerical, and computational models of continuous systems
@@ -58,17 +59,19 @@
 
 - name: Dr. Eduardo Campos Sepúlveda
   photo: Imagen.png
-  info: Scientific Researcher
-  email:
-  number_educ: 0
+  info: Scientific Researcher - Department of Physics, School of Sciences, UNAM
+  email: eduardo.campos@ciencias.unam.mx
+  number_educ: 1
+  education1: Main Research Interests - Computational Physics, Complex Systems, and Non-Linear Dynamics
 
-- name: M.Sc. Heber Hernández Guerra
+- name: Dr. Heber Hernández Guerra
   photo: Heber.jpg
-  info: Civil Mining Engineer, Master in Mining, and Dr. student at the University of the Basque Country (UPV/EHU); CEO and Researcher at Nube Minera e Ingeniería SpA
+  info: CEO and Principal Researcher at Nube Minera e Ingeniería SpA - Ph.D. from the University of the Basque Country (UPV/EHU)
   email: heber@nubeminera.cl
-  number_educ: 2
-  education1: <a href="https://www.researchgate.net/profile/Heber_Hernandez2">ResearchGate</a>
-  education2: <a href="https://github.com/heberallin">GitHub</a>
+  number_educ: 3
+  education1: Civil Mining Engineer & Master in Mining Engineering
+  education2: <a href="https://www.researchgate.net/profile/Heber_Hernandez2">ResearchGate</a>
+  education3: <a href="https://github.com/heberallin">GitHub</a>
 
 - name: B. Sc. José Cristóbal Rojas Castillo
   photo: JCRC.jpg
@@ -108,13 +111,15 @@
 
 - name: Dr. Daniel Vázquez-Ramírez
   photo: ImagenDaniel.jpg
-  info: Researcher
+  info: Geophysical Researcher at UNAM
   email: daniel.geofisico89@comunidad.unam.mx
-  number_educ: 0
+  number_educ: 2
+  education1: "Ph.D. in Earth Sciences with Honors from National Autonomous University of Mexico (UNAM)"
+  education2: "Main Research Interests - Stochastic joint seismic inversion, copula-based co-simulation models, and reservoir characterization"
 
 - name: M.Eng. Edgar G. Martínez-Mendoza
   photo: ImagenEdgar.jpg
-  info:  Petroleum Engineer
+  info: Petroleum Engineer
   email: edgarg.martinezm@gmail.com
   number_educ: 1
   education1: Main Research Interests&#58; Pore-scale modeling via the pore network approach
@@ -135,19 +140,21 @@
 
 - name: M.Sc. Yarilis Gómez Martínez
   photo: Imagen.png
-  info: Geophysical Engineer
-  email: yarilisgm@gmail.com
-  number_educ: 0
+  info: Geophysicist & Earth Sciences Researcher at UNAM
+  email: yarilisgomez@comunidad.unam.mx
+  number_educ: 2
+  education1: Master of Science (M.Sc.) from Universidad Nacional Autónoma de México (UNAM)
+  education2: Main Research Interests - Geophysics, Earth models, Seismic Inversion, Optimization, and Numerical Simulation
 
 - name: Dr. Sinai Morales-Chávez
   photo: ImagenSinai.jpg
   info: Specialist at IMP
-  email:  geomorales91@gmail.com
+  email: geomorales91@gmail.com
   number_educ: 5
   education1: Dr. in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
   education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
   education3: <a href="https://github.com/smoralesc91">GitHub</a>
-  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">Linkedin</a>
+  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">LinkedIn</a>
   education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
 
 - name: Dr. Javier A. Estrada-Santos
@@ -165,5 +172,4 @@
   email: mfernandez@imp.mx
   number_educ: 2
   education1: Geophysical Engineer (Instituto de Geofísica, UNAM)
-  education2: <a href="https://mx.linkedin.com/in/mart%C3%ADn-fern%C3%A1ndez-vergara-76301163">LinkedIn Profile</a>
-
+  education2: <a href="https://mx.linkedin.com/in/mart%C3%ADn-fern%C3%A1ndez-vergara-76301163">LinkedIn</a>
