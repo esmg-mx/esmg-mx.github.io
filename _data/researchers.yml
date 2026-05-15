@@ -24,7 +24,15 @@
   keyword: rcasarg
   number_educ: 1
   education1: Main Research Interests&#58; Geostatistics applied to geosciences. Geological-petrophysical modelling of hydrocarbon reservoirs. Characterisation and evaluation of mineral resources. Modelling and evaluation of contaminated sites.
-  
+
+- name: Dr. Juan Pedro Morales Salazar
+  photo: photo_pedro_morales.jpg
+  info: Researcher at UNAM/IMP
+  email: jp.morales.salazar@comunidad.unam.mx
+  number_educ: 2
+  education1: Main Research Interests&#58; Drilling and Reservoir Geomechanics, Mathematical, Numerical and Computational Multi-Physics Modeling&#58; Thermo-Hydro-Mechanical Models; Flow and Deformation modeling in Naturally Fractured-Vuggy Reservoirs; Physics Informed Neural Networks applied to Geomechanics; Drilling Engineering; Hydraulic Fracturing; Well Stimulation.
+  education2: <a href="/media/resume/CV%20-%20JPMS%202026.pdf">Resume</a>
+
 - name: Dr. Arturo Ortíz-Tapia
   photo: ImagenAOT.jpg
   info: Researcher
