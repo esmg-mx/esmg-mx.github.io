@@ -181,3 +181,12 @@
   number_educ: 2
   education1: Geophysical Engineer (Instituto de Geofísica, UNAM)
   education2: <a href="https://mx.linkedin.com/in/mart%C3%ADn-fern%C3%A1ndez-vergara-76301163">LinkedIn</a>
+
+- name: Dr. Carla D. Ayala-García
+  photo: ImagenDaniela.jpg
+  info: PhD, Computational and Applied Mathematics
+  email: daniellaayala@ciencias.unam.mx
+  number_educ: 3
+  education1: B.Sc. in Mathematics, School of Sciences, UNAM (2008)
+  education2: M.Sc. in Mathematical Modelling and Scientific Computing, University of Oxford
+  education3: Ph.D. in Computational and Applied Mathematics, The University of Edinburgh
