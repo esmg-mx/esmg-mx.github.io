@@ -48,10 +48,10 @@
   photo: Imagen.png
   info: Research Scientist & AI Specialist | Ph.D. from LENEP-UENF
   email: luisgamboa@lenep.uenf.br
-  number_educ: 3
+  number_educ: 2
   education1: Ph.D. in Petroleum Engineering from Universidade Estadual do Norte Fluminense (UENF), Brazil
   education2: Main Research Interests - Physics-Informed Neural Networks (PINNs), drill string vibration mitigation, and machine learning for inverse porous problems
-  education3: Featured Publication - Lead author of Galerkin PINN approach for tracer dispersion estimation in Computational Geosciences (with M.A. Díaz-Viera)
+
 
 - name: Dr. Arturo Reyes Romero
   photo: ImagenArturo.jpg
