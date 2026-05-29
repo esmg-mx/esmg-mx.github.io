@@ -42,7 +42,16 @@
   education1: Ph.D. specializing in Reservoir Engineering and Thermodynamics
   education2: Main Research Interests - Analytical solutions for multi-component multiphase flow, polymer flooding, and low-salinity EOR modeling
   education3: Current Position - Associate Professor at Laboratório de Engenharia e Exploração de Petróleo (UENF)
-  education4: <a href='https://google.com'>Google Scholar</a>
+  education4: <a href='https://scholar.google.com.mx/citations?user=-IzXRzwAAAAJ&hl=es&oi=ao'>Google Scholar</a>
+
+- name: Dr. Luis Gamboa Constante
+  photo: Imagen.png
+  info: Research Scientist & AI Specialist | Ph.D. from LENEP-UENF
+  email: luisgamboa@lenep.uenf.br
+  number_educ: 3
+  education1: Ph.D. in Petroleum Engineering from Universidade Estadual do Norte Fluminense (UENF), Brazil
+  education2: Main Research Interests - Physics-Informed Neural Networks (PINNs), drill string vibration mitigation, and machine learning for inverse porous problems
+  education3: Featured Publication - Lead author of Galerkin PINN approach for tracer dispersion estimation in Computational Geosciences (with M.A. Díaz-Viera)
 
 - name: Dr. Arturo Reyes Romero
   photo: ImagenArturo.jpg
