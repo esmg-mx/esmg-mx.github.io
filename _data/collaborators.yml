@@ -127,10 +127,14 @@
   
 - name: Dr. Ouorou Ganni Mariel Guera
   photo: Mariel.png
-  info: Solid background in forest management and utilization, applied statistics, experimental design, and mathematical modeling using traditional and Machine Learning techniques in biological and agricultural sciences
+  info: National Research Coordinator at CIMMYT | Expert in Applied Statistics and Agroecology
   email: gueraforest@gmail.com
-  number_educ: 1
-  education1: <a href="/media/resume/CV_OUOROU_GANNI_MARIEL_GUERA.pdf">Resume</a>
+  number_educ: 5
+  education1: Ph.D. specializing in Forest Management, Applied Statistics, and Natural Resources
+  education2: Main Research Interests - Machine Learning in biological sciences, spatial geostatistics for pest management, and sustainable agrifood systems
+  education3: Current Position - National Coordinator of Agricultural Research Platforms at the International Maize and Wheat Improvement Center (CIMMYT)
+  education4: <a href='https://scholar.google.com/citations?user=FvMvKAYAAAAJ&hl=es'>Google Scholar</a>
+  education5: <a href='/media/resume/CV_OUOROU_GANNI_MARIEL_GUERA.pdf'>Resume</a>
 
 - name: Dr. Victor Miguel Hernández Maldonado
   photo: Victor.jpg
