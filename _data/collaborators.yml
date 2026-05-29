@@ -16,6 +16,17 @@
   number_educ: 1
   education1: <a href="http://www.fciencias.unam.mx/directorio/34691">Personal website</a>
 
+- name: Dr. Everton Lucas de Oliveira
+  photo: everton.png
+  info: Research Scientist at MOGNO Beamline - LNLS / CNPEM | NMR & Micro-CT Expert
+  email: everton.oliveira@lnls.br
+  number_educ: 5
+  education1: Ph.D. in Applied Physics and Computational Modeling from University of São Paulo (USP)
+  education2: Main Research Interests - High-pressure/High-temperature multiphase fluid flow, time-resolved 4D micro-tomography, and NMR relaxation in porous media
+  education3: Current Position - Beamline Researcher at the Brazilian Synchrotron Light Laboratory (LNLS / Sirius)
+  education4: <a href='https://scholar.google.com/citations?user=xIIpAe8AAAAJ&hl=pt-BR'>Google Scholar</a>
+  education5: <a href='https://orcid.org/0000-0003-1353-918X'>ORCID Profile</a>
+
 - name: Dr. Edscott Wilson García
   photo: ImagenEdscott.jpeg
   info: Scientific Researcher at Instituto Mexicano del Petróleo (IMP)
