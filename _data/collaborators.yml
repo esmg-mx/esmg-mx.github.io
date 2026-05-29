@@ -1,3 +1,14 @@
+- name: Dr. Tito José Bonagamba
+  photo: tito-pic.jpeg
+  info: Full Professor at IFSC-USP | Advisor to the Office of the Vice Provost for Research and Innovation, USP
+  email: tito@ifsc.usp.br
+  number_educ: 5
+  education1: Ph.D. in Physics from São Carlos Institute of Physics, University of São Paulo (USP)
+  education2: Main Research Interests - Nuclear Magnetic Resonance (NMR) applications in porous media, quantum information, and polymer physics
+  education3: Distinctions - Member of the Latin American Academy of Sciences (ACAL) and former Director of IFSC-USP
+  education4: <a href='https://scholar.google.com/citations?user=7QpQAeMAAAAJ&hl=pt-BR'>Google Scholar</a>
+  education5: <a href='https://www.researchgate.net/profile/Tito-Bonagamba'>ResearchGate</a>
+
 - name: Dr. Antonio Carrillo Ledesma
   photo: ImagenAntonio.jpg
   info: Dr. in Earth Sciences from UNAM, specializing in Mathematical and Computational Modeling of Earth Systems
