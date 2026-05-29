@@ -149,10 +149,12 @@
 
 - name: Dr. Mario Enrique Vadillo-Sáenz
   photo: ImageMEVS.jpg
-  info: Researcher
+  info: Senior Geomechanics Specialist & Petroleum Engineering Professor
   email: marioevsz@gmail.com
-  number_educ: 1
-  education1: Main Research Interests&#58; Reservoir Simulation, Borehole Mechanical Stability
+  number_educ: 3
+  education1: Ph.D. in Petroleum Engineering
+  education2: Main Research Interests - Multiphase reservoir simulation, computational geomechanics, and borehole mechanical stability under shear stress
+  education3: <a href="https://www.linkedin.com/in/mario-enrique-vadillo-saenz/">LinkedIn Profile</a>
 
 - name: Dr. Daniel Vázquez-Ramírez
   photo: ImagenDaniel.jpg
