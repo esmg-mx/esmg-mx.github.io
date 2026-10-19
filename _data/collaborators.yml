@@ -178,6 +178,17 @@
   number_educ: 1
   education1: M.Sc. in Earth Sciences at the Institute of Geophysics of the UNAM in the area of Earth System Modeling in collaboration with the Mexican Petroleum Institute (IMP)
 
+- name: Dr. Sinai Morales-Chávez
+  photo: ImagenSinai.jpg
+  info: Specialist at IMP
+  email: smorales@imp.mx
+  number_educ: 5
+  education1: Dr. in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
+  education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
+  education3: <a href="https://github.com/smoralesc91">GitHub</a>
+  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">LinkedIn</a>
+  education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
+  
 - name: M.Sc. Rosario Pacheco Serrano
   photo: Imagen.png
   info: Geological Engineer
@@ -192,17 +203,6 @@
   number_educ: 2
   education1: Master of Science (M.Sc.) from Universidad Nacional Autónoma de México (UNAM)
   education2: Main Research Interests - Geophysics, Earth models, Seismic Inversion, Optimization, and Numerical Simulation
-
-- name: Dr. Sinai Morales-Chávez
-  photo: ImagenSinai.jpg
-  info: Specialist at IMP
-  email: smorales@imp.mx
-  number_educ: 5
-  education1: Dr. in hydrocarbon exploitation at Mexican Petroleum Institute (IMP)
-  education2: Main Research Interests&#58; Petrophysics, Hydrogeology, Flow and transport modeling in porous media
-  education3: <a href="https://github.com/smoralesc91">GitHub</a>
-  education4: <a href="https://www.linkedin.com/in/sinaimoraleschavez">LinkedIn</a>
-  education5: <a href="https://www.researchgate.net/profile/Sinai-Morales-Chavez">ResearchGate</a>
 
 - name: Dr. Javier A. Estrada-Santos
   photo: ImagenJES.jpg
